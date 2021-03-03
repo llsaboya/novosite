@@ -22,13 +22,13 @@ foo:
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "About"
+  # - title: "About"
     url: /about/
-  - title: "Sample Posts"
+  # - title: "Sample Posts"
     url: /tags/
-  - title: "Sample Collections"
+  # - title: "Sample Collections"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
+  # - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
 
