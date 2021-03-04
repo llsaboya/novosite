@@ -7,6 +7,14 @@ tags:
 ---
 
 
+{% capture fig_img %}
+![Foo]({{ "_posts/post-images/aefe9e80632ceb930785374297dd64377de17d38.jpg" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Diogo Mainardi.</figcaption>
+</figure>
 
 Diogo Mainardi, 42 anos (na época), pode não querer, pode discordar, argumentar o contrário e até brincar com o fato. Porém, é mister reconhecer que ele, agora, faz parte do rol de jornalistas que deixam ecos atrás de si. Basta tocar em seu nome e começam os comentários. Dos mais fajutos aos mais intelectuais. Gostariam os mais reacionários, que o acusam de ser reacionário, que Diogo fizesse algo mais produtivo com sua inteligência (ou simplesmente calasse-se). Já outros encontram nele o ótimo crítico, alguém que preencheu – e muito bem – um espaço desprezado e esquecido na imprensa brasileira.
 
