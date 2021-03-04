@@ -1,10 +1,13 @@
 ---
-title:  "Entrevista Diogo Mainardi"
+title: "Entrevista Diogo Mainardi"
+excerpt: "Nessa entrevista, Diogo fala sobre a vida, literatura, o lado pessoal do famoso colunista"
 categories: 
-- Jornalismo
+  - Jornalismo
 tags:
-- Diogo Mainardi
+  - Diogo Mainardi
+
 ---
+
 Diogo Mainardi, 42 anos (na época), pode não querer, pode discordar, argumentar o contrário e até brincar com o fato. Porém, é mister reconhecer que ele, agora, faz parte do rol de jornalistas que deixam ecos atrás de si. Basta tocar em seu nome e começam os comentários. Dos mais fajutos aos mais intelectuais. Gostariam os mais reacionários, que o acusam de ser reacionário, que Diogo fizesse algo mais produtivo com sua inteligência (ou simplesmente calasse-se). Já outros encontram nele o ótimo crítico, alguém que preencheu – e muito bem – um espaço desprezado e esquecido na imprensa brasileira.
 
 Apesar de todas as comparações, do sucesso de sua coluna semanal, das suas críticas ácidas e debochadas, só mesmo conhecendo-o para ter idéia mais próxima de quem é Diogo, o escritor aventureiro, o brasileiro crítico, o pai dedicado – o homem que acredita que a ironia sempre perde, no final.  Um “doce de pessoa”, educado, elegante, maneiroso – sempre de bom humor. Foi num café em Ipanema, depois que um leitor veio cumprimentá-lo pela sua coluna, que Diogo comentou, após agradecer de forma acanhada (não por arrogância, mas pelo simples fato de talvez ainda achar tudo muito estranho): “agora é sempre assim. É incrível. Depois da televisão...”
