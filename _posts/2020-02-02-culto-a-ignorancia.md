@@ -1,11 +1,11 @@
 
-```yaml
+---
 title:  " Um Culto da Ignorância, por Isaac Asimov"
 categories: 
 - Pensamento
 tags:
 - Isaac Asimov
-```
+---
 
 
 {% capture fig_img %}
