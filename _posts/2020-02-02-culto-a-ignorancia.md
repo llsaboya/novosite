@@ -1,4 +1,3 @@
-
 ---
 title:  " Um Culto da Ignorância, por Isaac Asimov"
 categories: 
