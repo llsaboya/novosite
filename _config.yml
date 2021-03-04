@@ -18,23 +18,23 @@ name                     : &name "Lefebvre de Saboya" # &name is a YAML anchor w
 description              : &description "O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia."
 url                      : "https://llsaboya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/siteprincipal" # the subpath of your site, e.g. "/blog"
-# repository               : "mmistakes/minimal-mistakes"
+repository               : "llsaboya/siteprincipal"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : "453505855353887"
+    num_posts            : "5" # 5 (default)
+    colorscheme          : "light" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -49,9 +49,9 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
-  application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
-  index_name             : minimal_mistakes # YOUR_INDEX_NAME
-  search_only_api_key    : 9d5014e5bbc77372547bce778dfa5663 # YOUR_SEARCH_ONLY_API_KEY
+  application_id         : SUWXKRJ0EO # YOUR_APPLICATION_ID
+  index_name             : siteprincipal # YOUR_INDEX_NAME
+  search_only_api_key    : eafe6be2975de27c526ae1ac917bdb3a # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
@@ -94,7 +94,7 @@ author:
   bio              : "Just another *boring*, *tattooed*, *hard-nosed*, *writer*."
   location         : "Porto Alegre, RS"
   links:
-    - label: "Made Mistakes"
+    - label: "Sobre mim"
       icon: "fas fa-fw fa-link"
       url: "https://mademistakes.com"
     - label: "Twitter"
@@ -274,6 +274,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -283,6 +284,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
 
 
 # Archives

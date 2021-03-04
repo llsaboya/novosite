@@ -1,20 +1,17 @@
 ---
-title: "Post Standard"
-excerpt: "This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages."
+title: Post Standard
+excerpt: This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages.
 categories:
-  - Notas
-  - Instructional Design
-  - Tecnologia
-  - Política
-  - Cultura
   - Comunicação
+  - Cultura
+  - Instructional Design
   - Negócios
-
+  - Notas
+  - Política
 tags:
   - image
   - Post Formats
-last_modified_at: 2017-10-26T15:12:19-04:00
-
+last_modified_at: 2017-10-26T19:12:19.000Z
 ---
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
