@@ -2,7 +2,14 @@
 title: "Post Standard"
 excerpt: "This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages."
 categories:
-  - Post Formats
+  - Notas
+  - Instructional Design
+  - Tecnologia
+  - Política
+  - Cultura
+  - Comunicação
+  - Negócios
+
 tags:
   - image
   - Post Formats
@@ -19,6 +26,8 @@ Standard image with no width modifier classes applied.
 ```html
 {% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/filename.jpg" alt="">{% endraw %}
 ```
+
+
 
 **or Kramdown:**
 

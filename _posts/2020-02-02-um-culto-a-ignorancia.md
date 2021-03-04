@@ -2,7 +2,7 @@
 title: "Um Culto da Ignorância, por Isaac Asimov"
 excerpt: "A corrente do anti-intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento"
 categories:
-  - Pensamento
+  - Cultura
 tags:
   - Isaac Asimov
 ---
