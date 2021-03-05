@@ -20,17 +20,34 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  # - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-    url: /tags/
+  - title: "Sobre mim"
+    url:  /sobre/lefebvre-saboya/
+  - title: "Arquivo"
+    url: /categories/
   # - title: "Sample Collections"
-    url: /collection-archive/
+  #  url: /collection-archive/
   # - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  #  url: /terms/
 
+
+# documentation links
+sobre:
+  - title: Sobre Mim
+    children:
+      - title: "Meu nome é Lefebvre"
+        url: /sobre/lefebvre-saboya/
+      - title: "Curriculum Vitæ"
+        url: /sobre/profissional/
+      - title: "Perfil Comportamental"
+        url: /sobre/perfil/
+  - title: Publicações
+    children:
+      - title: "Atendimento Bancário"
+        url: /sobre/atendimento/
+      - title: "101 Que Contam"
+        url: /sobre/101-contam/
+      - title: "Contos"
+        url: /sobre/contos/
 
 # documentation links
 docs:
