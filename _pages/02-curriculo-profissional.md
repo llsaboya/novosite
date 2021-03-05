@@ -1,6 +1,6 @@
 ---
-title: "Curriculum Vitæ"
-permalink: /sobre/profissional/
+title: "Curriculum Vit\æ"
+permalink: /profissional/
 excerpt: "How the theme is organized and what all of the files are for."
 last_modified_at: 2020-07-27
 header:
@@ -28,13 +28,7 @@ toc: true
   <div class="author__content">
     
       <h3 class="author__name" itemprop="name">Lefebvre de Saboya</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>Just another <em>nuthead</em>, <em>tattooed</em>, <em>AC/DC addict</em>, <em>writer</em>.</p>
-
-      </div>
-    
+      
   </div>
 
   <div class="author__urls-wrapper">
