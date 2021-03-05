@@ -57,7 +57,7 @@ algolia:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" # Replace this with your ID, or delete
+google_site_verification :  # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -96,7 +96,7 @@ author:
   links:
     - label: "Sobre mim"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "/about/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/llsaboya"

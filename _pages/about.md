@@ -25,5 +25,6 @@ Lefebvre de Saboya merece seu reconhecimento por não sucumbir às tendências �
 
 Não tem nenhum segredo para falar comigo. Só mandar um email:
 
-**hello@llsaboya.com** e pode conversar comigo sobre qualquer assunto.
+[hello@llsaboya.com](mailto:hello@llsaboya.com) e pode conversar comigo sobre qualquer assunto.
+{: .notice--success}
 
