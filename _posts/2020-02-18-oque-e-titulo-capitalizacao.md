@@ -1,10 +1,15 @@
 ---
-title: "Título de Capitalização - O que é e como se vende"
-excerpt: "Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira"
+title: Título de Capitalização - O que é e como se vende
+excerpt: 'Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira'
 header:
   overlay_image: /img/Prize-linked-Savings-Account.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
   teaser: /img/Prize-linked-Savings-Account.jpg
+categories:
+  - Negócios
+tags:
+  - Bancos
+  - Título de capitalização
 ---
 
 **Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira**. Se tal afirmação parece loucura, é porque durante noventa décadas os TCs só foram usados para ganhar dinheiro.

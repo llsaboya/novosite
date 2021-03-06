@@ -1,23 +1,25 @@
 ---
-title: "Curriculum Vitae"
+title: "Currículo Profissional"
 permalink: /profissional/
-excerpt: "Histórico Profissional"
+excerpt: "Curriculum Vitae"
 header:
-  overlay_image: /assets/images/unsplash-gallery-image-1.jpg
+  overlay_image: /img/Banner-LinkedIn.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: /img/Portifolio-350-250.png
 last_modified_at: 2021-03-01
 toc: true
 toc_label: "Meu histórico profissional"
 toc_icon: "cog"
 toc_sticky: true
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Cargos"
+    image: /img/Portifolio-350-250.png
+    image_alt: "Lefebvre de Saboya"
+    text: "Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer"
+  - title: "Responsabilidades"
+    text: "Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional."
+  - title: "Contato"
+    text: "hello@llsaboya.com"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -29,8 +31,6 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 # Experiência Profissional
 

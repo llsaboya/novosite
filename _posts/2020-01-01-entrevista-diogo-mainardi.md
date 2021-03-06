@@ -5,10 +5,12 @@ categories:
   - Cultura
 tags:
   - Diogo Mainardi
+header:
+  overlay_image: img/aefe9e80632ceb930785374297dd64377de17d38.jpg
+  overlay_filter: 0.5
+  teaser: img/aefe9e80632ceb930785374297dd64377de17d38.jpg
 
 ---
-{% include figure image_path="img/aefe9e80632ceb930785374297dd64377de17d38.jpg" alt="Diogo Mainardi" caption="Diogo Mainardi" %}
-
 > A entrevista foi publicada em 2003
 {: .notice} 
 

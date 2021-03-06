@@ -8,6 +8,10 @@ tags:
   - Soft skills
   - Hard skills
   - Auto-ajuda
+header:
+  overlay_image: /img/breves-notas.png
+  overlay_filter: 0.5
+  teaser: /img/breves-notas-th.png
 ---
 
 {% include figure image_path="img/soft-skills-nederlia.png" alt="Soft Skills" caption="Só falta inventarem medir isso" %}

@@ -1,11 +1,14 @@
 ---
 title: "Um Culto da Ignorância, por Isaac Asimov"
-excerpt: "A corrente do anti-intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento"
+excerpt: "Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento"
 categories:
   - Cultura
 tags:
   - Isaac Asimov
+header:
+  teaser: assets/post-images/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png
 ---
+
 {% include figure image_path="assets/post-images/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original" caption="Artigo original de Asimov." %}
 
 É difícil discordar da velha justificativa da imprensa livre: "*O Direito de Saber da América*". Parece quase cruel perguntar, sem malícia, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
