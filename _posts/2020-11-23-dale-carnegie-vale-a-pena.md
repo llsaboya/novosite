@@ -1,6 +1,6 @@
 ---
 title: "Dale Carnegie vale a pena?"
-excerpt: "Descubra se os cursos de soft skills da Dale Carnegie são bons ou enganação."
+excerpt: "Descubra se os cursos de soft skills da Dale Carnegie são bons ou pura enganação."
 categories:
   - Instructional Design
   - Negócios
@@ -9,7 +9,12 @@ tags:
   - Soft skills
   - Hard skills
   - Auto-ajuda
+header:
+  overlay_image: /img/Dale-Carnegie-1920x1080.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  teaser: /img/Dale-Carnegie-1920x1080.th.jpg
 ---
+
 Se você não sabe quem foi Dale Carnegie, já deve ter ouvido falar do livro "Como fazer amigos e influenciar pessoas". Publicado em 1936 é a obra de referência em desenvolvimento pessoal (e auto-ajuda) no século XX.
 
 E enquanto eu trabalhei na Dale Carnegie Training, o que mais me perguntavam era: esse negócio de Dale Carnegie vale apena ou é pura enganação?
