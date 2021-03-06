@@ -6,6 +6,8 @@ last_modified_at: 2021-02-05T20:54:41-05:00
 toc: true
 ---
 
+# Once upon a time...
+
 Lefebvre de Saboya nasceu em dezembro de 1980, em Campo Grande, Mato Grosso do Sul, aonde viveu até os 5 anos. Depois, mudou-se com seus pais e irmã para Olinda, Recife, Natal, Brasília e, finalmente, voltou para Campo Grande em 1990. Até os 16 anos mostrou-se um ótimo aluno.
 
 Aos 17 anos, a adolescência trouxe-lhe a rebeldia: Lefebvre se recusava a assistir às aulas por considerá-las enfadonhas - ele sabia o que era ensinado há muito tempo e considerava as propostas demasiadamente inferiores à sua capacidade intelectual.
@@ -29,6 +31,11 @@ Sem nunca perder as esperanças, finalmente conquistou a liberdade em 2018. Seu 
 Até hoje a suas histórias são sussurradas nos corredores pelas as pessoas que ainda vivem lá, apesar da vigilância constante dos superintendentes e executivos que controlam o lugar.
 
 Lefebvre de Saboya merece seu reconhecimento por não sucumbir às tendências “atuais” da Literatura e preservar as características dos bons autores.
+
+## Currículo Profissional
+
+**Cuidado!!!** Talvez você ainda não me conheça e quer um [Currículo Profissional - Breves Notas](https://llsaboya.com/profissional/).
+{: .notice--warning}
 
 ## Contato
 

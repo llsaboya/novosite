@@ -1,6 +1,6 @@
 ---
-title: Post Standard
-excerpt: This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages.
+title: "content"
+excerpt: "content"
 categories:
   - Comunicação
   - Cultura
@@ -10,8 +10,7 @@ categories:
   - Política
   - Video
 tags:
-  - image
-  - Post Formats
+  - Lefebvre de Saboya
 header:
   overlay_image: /img/breves-notas.png
   overlay_filter: 0.5
@@ -20,9 +19,9 @@ toc: false
 toc_sticky: true
 ---
 
-![breves-notas-th](../img/breves-notas-th.png)
+![breves-notas-th](/img/breves-notas-th.png)
 
-![breves-notas](../img/breves-notas.png)
+![breves-notas](/img/breves-notas.png)
 
 The preferred way of using images is placing them in the `/assets/images/` directory and referencing them with an absolute path. Prepending the filename with `{% raw %}{{ site.url }}{{ site.baseurl }}/assets/images/{% endraw %}` will make sure your images display properly in feeds and such.
 
