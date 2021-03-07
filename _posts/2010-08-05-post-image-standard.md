@@ -1,6 +1,6 @@
 ---
-title: "content"
-excerpt: "content"
+title: content
+excerpt: content
 categories:
   - Comunicação
   - Cultura
@@ -31,7 +31,20 @@ Standard image with no width modifier classes applied.
 **mm:**
 
 ```html
-{% raw %}{% include figure image_path="path" alt="content" caption="content" %}{% endraw %}
+{% raw %}
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+
+header:
+  video:
+    id: XsxDH4HcOWA
+    provider: youtube
+
+
+{% include figure image_path="path" alt="content" caption="content" %}
+
+
+{% endraw %}
 ```
 
 

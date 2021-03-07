@@ -2,13 +2,8 @@
 title: Como trabalhar melhor em Home Office
 excerpt: Dicas e truques de como implementar o Home Office no seu Workflow de trabalho durante a pandemia.
 categories:
-  - Comunicação
-  - Cultura
   - Instructional Design
   - Negócios
-  - Notas
-  - Política
-  - Video
 tags:
   - image
   - Post Formats

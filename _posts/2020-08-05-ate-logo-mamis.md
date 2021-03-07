@@ -1,17 +1,16 @@
 ---
-title: "Até logo, mamis"
-excerpt: "A dor e a revolta é assunto dos vivos. E as últimas lembranças também."
+title: 'Até logo, mamis'
+excerpt: A dor e a revolta é assunto dos vivos. E as últimas lembranças também.
 categories:
     - Notas
-    - Video
 tags:
     - Mãe
     - Morte
 header:
     teaser: /img/até-logo-mae-th.jpeg
-
 toc: false
 toc_sticky: true
+slug: ate-logo-mamis
 ---
 
 ![até-logo-mae](/img/até-logo-mae.jpeg)
