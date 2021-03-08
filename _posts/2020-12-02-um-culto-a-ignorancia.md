@@ -6,10 +6,10 @@ categories:
 tags:
   - Isaac Asimov
 header:
-  teaser: assets/post-images/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png
+  teaser: /img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f-th.png
 ---
 
-{% include figure image_path="assets/post-images/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original" caption="Artigo original de Asimov." %}
+{% include figure image_path="/img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original" caption="Artigo original de Asimov." %}
 
 É difícil discordar da velha justificativa da imprensa livre: "*O Direito de Saber da América*". Parece quase cruel perguntar, sem malícia, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
 

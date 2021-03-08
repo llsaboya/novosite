@@ -10,7 +10,7 @@ tags:
 header:
   overlay_image: /img/standsome-worklifestyle-wZJUt5mCbR0-unsplash.jpg
   overlay_filter: 0.5
-  teaser: /img/standsome-worklifestyle-wZJUt5mCbR0-unsplash.jpg
+  teaser: /img/standsome-worklifestyle-wZJUt5mCbR0-unsplash-th.jpg
 toc: false
 toc_sticky: true
 ---

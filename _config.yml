@@ -90,13 +90,13 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/llsaboya.jpg"
+  avatar           : "/img/llsaboya.jpg"
   bio              : "Just another *nuthead*, *tattooed*, *AC/DC addict*, *writer*."
   location         : "Porto Alegre, RS"
   links:
-    - label: "Sobre mim"
-      icon: "fas fa-fw fa-link"
-      url: "/about/"
+    - label: "E-mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@llsaboya.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/llsaboya"
