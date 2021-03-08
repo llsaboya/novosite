@@ -1,0 +1,22 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora eu achei ser uma boa idéia.</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
