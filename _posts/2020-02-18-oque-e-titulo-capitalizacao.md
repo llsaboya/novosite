@@ -10,6 +10,11 @@ categories:
 tags:
   - Bancos
   - Título de capitalização
+  - Antônio Rocha Junior
+  - CPA 20
+  - CPA 10
+slug: titulo-de-capitalizacao-e-como-se-vende
+toc: true
 ---
 
 **Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira**. Se tal afirmação parece loucura, é porque durante noventa décadas os TCs só foram usados para ganhar dinheiro.
@@ -18,7 +23,7 @@ Pergunte ao seu gerente de banco ou assessor de investimento a origem das capita
 
 Mas se você quer saber como surgiram os títulos de capitalização, se eles existem em outros países e como é o marketing e a venda qualificada de um título, está no lugar certo.
 
-A Origem do Título de Capitalização
+## A Origem do Título de Capitalização
 
 Conheço pouca gente no mercado financeiro que sabe o que é e para que serve um título de capitalização. C-levels só sabem que essa rubrica no balanço anual é importante porque têm muitos zeros à direita. Eu também não tenho a mínima vontade de compartilhar uma informação que ninguém quer.
 
@@ -29,8 +34,6 @@ Em resumo, Antônio foi despachar uma encomenda e resolveu comprar um [PostalCap
 Entendo a indignação dele. Entretanto, ele comprou um Título de Capitalização Popular (um dos seis que existem: tradicional, popular, incentivo, compra programada, instrumento de garantia e filantropia premiável) regulamentado pelas circulares n° 569 e 576 da SUSEP.
 
 A culpa de ser um produto financeiro MUITO RUIM não é dele em si, mas de quem vende. Para entender como um produto bom se tornou um vilão, precisamos voltar às origens.
-
-Satisfação
 
 O título de capitalização surgiu na França, em 1895, com o nome *sociétés de capitalisation*. O motivo era mais do que nobre: dar a oportunidade às pessoas pobres de ter uma poupança, algum dinheiro economizado. Funcionava mais ou menos assim:
 
@@ -44,7 +47,7 @@ Portanto, desde as suas origens o título de capitalização tem como público-a
 
 E como toda invenção que é nobre na origem, nós conseguimos arranjar um jeito de ganhar muito dinheiro com isso, **jogando sem frescura essa nobreza pela janela**.
 
-Títulos de Capitalização nos Estados Unidos e em outros países
+## Títulos de Capitalização nos Estados Unidos e em outros países
 
 Títulos de capitalização também existem nos **Estados Unidos**, onde são chamados de **[Prize-linked Savings Account](https://en.wikipedia.org/wiki/Prize-linked_savings_account).** A teoria é a mesma, é uma "conta poupança" que "concorre a prêmios" e tem uma "penalização" para saques. É uma modalidade considerada de suma importância, porque estimula pessoas não-poupadoras a criar o hábito de guardar dinheiro.
 
@@ -54,7 +57,7 @@ As empresas de capitalização são reguladas para evitar prejuízos a populaç�
 
 Então, como os brasileiros conseguiram **destruir** a reputação do título de capitalização?
 
-Por que título de capitalização é ruim
+## Por que título de capitalização é ruim
 
 Como já dito, existem seis tipos de títulos de capitalização no Brasil. São eles:
 
@@ -82,8 +85,6 @@ Não. O motivo é que a mega-sena era uma loteria disfarçada. E só o Governo F
 
 Agora, qual a **participação** da parcela dos títulos populares e das penalidades no lucro das **15 empresas** de capitalização brasileiras (*concentração* é suco)?
 
-Objeções de tempo
-
 O título de capitalização convencional também não escapa da má reputação. Isso se deve a severa penalização imposta pelos emissores para os resgates antecipados.
 
 Lembra do **título de capitalização americano**, o Prize-linked savings account? Eles são oferecidos por bancos, cooperativas de crédito, sindicatos e fintechs e tem como finalidade ajudar pessoas de baixa renda e sem educação financeira a poupar.
@@ -96,7 +97,7 @@ Hoje alguns oferecem penalidade zero. Mas na sua maioria, para resgates antecipa
 
 Agora vamos ver as regras de um título *personnalité* de um grande banco brasileiro para os clientes mais qualificados que eles possuem:
 
-Como as empresas ganham dinheiro com títulos de capitalização
+## Como as empresas ganham dinheiro com títulos de capitalização
 
 Agora me explica como um profissional com Certificação Profissional Anbima Série 20 (assim como eu) que trabalha prospectando ou vendendo produtos de investimento e realiza a manutenção de carteiras de investimentos no segmento de varejo da alta Renda, Private Banking, Corporate Banking ou para Investidores qualificados **vai vender um Título de Capitalização**?
 
@@ -110,7 +111,7 @@ Entretanto não tempos como analisar esses dados sem estar trabalhando dentro de
 
 Imagine agora o atendente dos correios ou o dono da banca de jornal explicando um título de capitalização popular, que ganham por comissão.
 
-O bilionário mercado de títulos de capitalização
+## O bilionário mercado de títulos de capitalização
 
 A principal pergunta dos investidores qualificados é "porque o título de capitalização ainda existe?". Para entendermos o impacto do setor você precisa saber o quanto eles têm em custódia.
 
@@ -118,7 +119,7 @@ As empresas de capitalização terminaram 2019 com R\$ 30,7 bilhões em reserva.
 
 Mais importante do que o valor, é onde essa reserva pode ser aplicada. 100% em títulos do tesouro ou banco central! Mesmo que a aplicação em empresas abertas e instituições financeiras seja limitada, os recursos dos títulos de capitalização são uma fonte valiosa de recursos.
 
-Títulos de capitalização são bons ou ruins?
+## Títulos de capitalização são bons ou ruins?
 
 Afinal, são os títulos de capitalização um produto bom ou ruim? A resposta mais simples é depende de qual título e depende de quem compra. A resposta que eu tenho é a da minha experiência.
 
@@ -148,14 +149,12 @@ Títulos de capitalização são ótimos para quem precisa.
 
 Títulos de capitalização são uma desgraça para os clientes de vendedores e empresas que só pensam em *bater metas e lucrar a qualquer custo*.
 
-Para Saber Mais
+### Para Saber Mais
 
-AMADOR, Paulo. [Capitalização: uma história de prosperidade](https://www.estantevirtual.com.br/livros/paulo-amador/capitalizacao-uma-historia-de-prosperidade/329970775). Editora Grupiara; Rio de
+- AMADOR, Paulo. [Capitalização: uma história de prosperidade](https://www.estantevirtual.com.br/livros/paulo-amador/capitalizacao-uma-historia-de-prosperidade/329970775). Editora Grupiara; Rio de Janeiro. 2002.
 
-Janeiro. 2002.
+- GOMES, Eduardo Martins de Mendonça. \"[As especificidades e as características jurídico/regulatórias que dão legitimidade aos títulos de capitalização: uma análise sobre o novo marco regulatório](http://repositorio.ufc.br/handle/riufc/49278).\" (2019).
 
-GOMES, Eduardo Martins de Mendonça. \"[As especificidades e as características jurídico/regulatórias que dão legitimidade aos títulos de capitalização: uma análise sobre o novo marco regulatório](http://repositorio.ufc.br/handle/riufc/49278).\" (2019).
+- [Prize-linked savings account](https://en.wikipedia.org/wiki/Prize-linked_savings_account) na Wikipedia
 
-[Prize-linked savings account](https://en.wikipedia.org/wiki/Prize-linked_savings_account) na Wikipedia
-
-[What is Prize-Linked Savings?](http://www.savetowin.org/financial-education/prize-linked-savings-)
+- [What is Prize-Linked Savings?](http://www.savetowin.org/financial-education/prize-linked-savings-)

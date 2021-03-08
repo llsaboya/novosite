@@ -6,13 +6,13 @@ header:
   overlay_image: /img/Banner-LinkedIn.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   teaser: /img/Portifolio-350-250.png
-last_modified_at: 2021-03-01
+last_modified_at: 2021-03-06
 toc: true
 toc_label: "Meu histórico profissional"
 toc_icon: "cog"
 toc_sticky: true
 sidebar:
-  - title: "Cargos"
+  - title: "Experiência"
     image: /img/Portifolio-350-250.png
     image_alt: "Lefebvre de Saboya"
     text: "Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer"
@@ -20,16 +20,6 @@ sidebar:
     text: "Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional."
   - title: "Contato"
     text: "hello@llsaboya.com"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 # Experiência Profissional

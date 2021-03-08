@@ -34,7 +34,7 @@ Lefebvre de Saboya merece seu reconhecimento por não sucumbir às tendências �
 
 ## Currículo Profissional
 
-**Cuidado!!!** Talvez você ainda não me conheça e quer um [Currículo Profissional - Breves Notas](https://llsaboya.com/profissional/).
+**Cuidado!!!** Talvez você ainda não me conheça e está achadno tudo isso muito entranho. Melhor começar com meu [Currículo Profissional - Breves Notas](https://llsaboya.com/profissional/).
 {: .notice--warning}
 
 ## Contato
