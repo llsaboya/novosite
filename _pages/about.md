@@ -24,7 +24,7 @@ Hoje, Lefebvre de Saboya viveu no Rio de Janeiro, onde escreveu contos, ensaios 
 
 Em 2012 aceitou, ingênuo, um grande desafio. Lefebvre não sabia que, ao entrar naquele grande banco comercial de varejo, seu destino mudaria.
 
-Por cinco longos anos viveu dentro desse banco, isolado do mundo exterior, longe da família e dos amigos. Entendeu que, para a sua sobrevivência, precisava aprender a rotina e os rituais dessa realidade impiedosa. Trabalhou exemplarmente, obtendo resultados incríveis, o que foi significativo para a sua sobrevivência. 
+Por cinco longos anos viveu dentro desse banco, isolado do mundo exterior, longe da família e amigos. Entendeu que, para a sua sobrevivência, precisava aprender a rotina e os rituais dessa realidade impiedosa. Trabalhou exemplarmente, obtendo resultados incríveis, o que foi significativo para a sua sobrevivência. 
 
 Sem nunca perder as esperanças, finalmente conquistou a liberdade em 2018. Seu processo de desligamento é reconhecido como um dos mais rápidos da história da instituição - o capítulo final de uma realidade que hoje se confunde com as lendas do banco. 
 
