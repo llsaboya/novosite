@@ -2,15 +2,9 @@
 title: content
 excerpt: content
 categories:
-  - Comunicação
-  - Cultura
-  - Instructional Design
-  - Negócios
   - Notas
-  - Política
-  - Video
 tags:
-  - Lefebvre de Saboya
+  - Code
 header:
   overlay_image: /img/breves-notas.png
   overlay_filter: 0.5
