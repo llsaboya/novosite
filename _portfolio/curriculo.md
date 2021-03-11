@@ -32,25 +32,26 @@ abril de 2018 - até hoje
 Porto Alegre e Região, Brasil
 {: .notice--success}
 
-Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional.
-
-Em vez de prescrever como se deve estruturar uma organização, suas operações ou qual deve ser a missão e objetivos, o que eu ajudo os tomadores de decisão a esclarecer o momento do negócio. Com essa fotografia, donos de empresas, líderes e empreendedores podem decidir aonde querem chegar e como querem fazer isso.
+Implantação de metodologias de gerenciamento e treinamento para empresas de pequeno e médio porte. 
 
 Eu uso o MODELO DE ANÁLISE E DIAGNÓSTICO DE EMPRESA (MADE), baseado no Baldrige Excellence Framework, criado pelo National Institute of Standards and Technology (NIST) do Departamento de Comércio dos Estados Unidos.
 
 ## Dale Carnegie Training
 
-### Parceiro Comercial
+### Trainer
 
 novembro de 2018 - julho de 2019 (9 meses)
 Porto Alegre e Região, Brasil
 {: .notice--success}
 
-Vendas e treinamento na Dale Carnegie. Tive a oportunidade de fazer todos os cursos oferecidos pela Dale Carnegie e realizei o processo preparatório para trainer.
+Após fazer todos os cursos oferecidos pela Dale Carnegie e realizei o processo preparatório para trainer para o Dale Carnegie Course, acompanhando e treinando empresários, gerentes, profissionais liberais, entre outros.
 
 ## Banrisul
 
-### Analista sênior
+Em cinco anos fui de escriturário no interior do estado para Líder de Projeto da racionalização e padronização do atendimento de toda a rede do banco. Restruturei o atendimento e a experiência do cliente na Plataforma Pessoa Jurídica da maior agência bancária da América Latina. Reestruturei o atendimento e a gestão de equipe da histórica primeira agência do Banrisul em Pelotas/RS, implantando experiência do cliente e ferramentas modernas de gestão de vendas. Implementei regras de compliance na agência com a maior taxa de tentativas de golpe, trazendo à zero os golpes bem-sucedidos assegurando a segurança dos clientes. Como Líder de Projeto desenvolvi e implantei o programa piloto de atendimento ao cliente e treinei as equipes envolvidas. Criei e implantei a análise sistêmica de agências através da "análise 360" agências bancárias.
+{: .notice--info}
+
+### Líder de Projetos
 
 maio de 2017 - abril de 2018 (1 ano)
 Porto Alegre e Região, Brasil
@@ -67,7 +68,7 @@ Porto Alegre e Região, Brasil
 - Treinamento nos protocolos desenvolvidos nos vários projetos. 
 - Consultoria às diversas unidades e superintendências do banco.
 
-### Supervisor
+### Gerente Comercial
 
 janeiro de 2015 - abril de 2017 (2 anos 4 meses)
 Porto Alegre e Pelotas, Rio Grande do Sul, Brasil
@@ -115,7 +116,7 @@ janeiro de 2010 - novembro de 2012 (2 anos 11 meses)
 São Paulo e Região, Brasil
 {: .notice--success}
 
-A RWL é uma oficina de reparação automotiva criada para atender as necessidades de clientes que não estão acostumados com o dia a dia de reparos colisões de veículos. Localizada no bairro paulistano Itaim Bibi. Aliado ao compromisso com a qualidade, como diferencial para a satisfação do cliente, a RWL continua a prestar serviços para as maiores concessionárias paulistas e estacionamentos.
+A RWL é oficina de reparação automotiva criada para atender as necessidades de clientes que não estão acostumados com o dia-a-dia de reparos colisões de veículos. Localizada no bairro paulistano Itaim Bibi, especializada em reparação de veículos blidados. Aliado ao compromisso com a qualidade e agilidade como diferencial para a satisfação do cliente, a RWL presta serviços para as maiores concessionárias paulistas, estacionamentos e particulares.
 
 # Certificações
 
