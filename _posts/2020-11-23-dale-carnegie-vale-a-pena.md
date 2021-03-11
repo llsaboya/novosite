@@ -15,6 +15,8 @@ header:
   teaser: /img/Dale-Carnegie-1920x1080.th.jpg
 redirect_from:
   - /2020/11/dale-carnegie-vale-pena.html
+toc: true
+toc_sticky: true
 ---
 
 Se você não sabe quem foi Dale Carnegie, já deve ter ouvido falar do livro "Como fazer amigos e influenciar pessoas". Publicado em 1936 é a obra de referência em desenvolvimento pessoal (e auto-ajuda) no século XX.
@@ -25,8 +27,7 @@ A resposta mais curta é sim, vale a pena. Mas se você vai gastar alguns milhar
 
 Eu não trabalho mais na Dale Carnegie. Não recebo remuneração alguma por indicar ou não seus cursos. 
 
-A Dale Carnegie Training
-------------------------
+# A Dale Carnegie Training
 
 Dale Carnegie fundou sua empresa de treinamentos em 1912, Nova York. Ele treinava pessoas para a arte de falar em público, o diferencial para se obter sucesso na época. 
 
@@ -51,8 +52,9 @@ Em 1936 Dale Carnegie explicou o que o livro (e por consequência, o curso) pode
 
 De certa forma, a Dale Carnegie Training entrega esses resultados até hoje.
 
-Dale Carnegie Course -- DCC
---------------------------
+# Cursos
+
+## Dale Carnegie Course -- DCC
 
 O curso DCC entrega todos esses resultados acima. O melhor garoto propaganda da Dale Carnegie, Warren Buffet, diz e repete sempre que se não fosse pelo curso e pela Dale Carnegie ele não seria o homem que é hoje e nem teria chegado aonde chegou (uma fortuna de quase 80 bilhões de dólares).
 
@@ -72,8 +74,7 @@ Todos esses pontos serão explorados adiante.
 
 Agora, vamos aos outros cursos oferecidos pela empresa e como eles funcionam (já que neles não existe mistério, o foco é no resultado).
 
-Dale Carnegie Course Avançado -- ADCC
-------------------------------------
+## Dale Carnegie Course Avançado -- ADCC
 
 O DCC Avançado é voltado para os graduados no DCC (só faz o segundo se tiver feito o primeiro). Se no DCC o foco de mudança e desenvolvimento é as habilidades do aluno e como ele internamente se relaciona com o mundo em sua volta, o ADCC é um conjunto de ferramentas para ser usado nesse relacionamento com equipes, clientes e negócios entregando resultados bem específicos de 1936:
 
@@ -97,8 +98,7 @@ A rixa é mais uma jogada de marketing da PNL para se posicionar como ciência s
 
 E por falar em negócios...
 
-LTM -- Treinamento de liderança para gestores
---------------------------------------------
+## LTM -- Treinamento de liderança para gestores
 
 Eu considero o LTM o melhor treinamento (ou ensino) de negócios no mundo. Desenvolvido pela Dale Carnegie com Peter F. Drucker, o pai da administração ou gestão moderna, a ciência que trata sobre pessoas nas organizações, como dizia ele próprio.
 
@@ -123,8 +123,7 @@ Drucker escrevia de forma simples de maneira consciente e objetiva. Ele sempre a
 
 O LTM é uma tentativa de compartilhar essa informação que deu certo.
 
-HIP -- Apresentações de alto-impacto
------------------------------------
+## HIP -- Apresentações de alto-impacto
 
 O curso que deu início a tudo em 1912. Baseado no livro A Arte de Falar em Público, o HIP é um curso destinado a pessoas que precisam fazer apresentações, falar para platéias, seja essa platéia composta de funcionários, de equipes, ou em palestras e congressos.
 
@@ -136,8 +135,7 @@ Dale Carnegie descobriu em 1912 que o problema de falar em público é apenas um
 
 É o curso mais dinâmico e divertido para o aluno, além de proporcionar resultados imediatos aplicáveis no dia seguinte.
 
-Negociação total e Vendas através do relacionamento
----------------------------------------------------
+## Negociação total e Vendas através do relacionamento
 
 Os dois últimos cursos são o Negociação Total e Vendas através de relacionamento.
 
@@ -155,8 +153,8 @@ O mesmo acontece no curso de vendas. Saber como o processo de vendas se desenvol
 
 Para mim, foi os cursos com o menor envolvimento emocional. No meu caso, não estava em jogo autodescoberta, novas informações, técnicas diferenciadas nessas áreas.
 
-A metodologia da Dale Carnegie
-------------------------------
+# O ponto positivo: metodologia da Dale Carnegie
+
 
 Algo muito valorizado pelos treinadores da Dale Carnegie é sua metodologia: *Performance Change Pathway™*. Essa metodologia passou por transformações e aprimoramentos nesses cem anos. O livro "Como fazer amigos..." é constantemente atualizado com as mudanças de cultura e comportamento da sociedade. E não há nada de errado nisso.
 
@@ -166,14 +164,15 @@ A própria proposta pedagógica dos cursos (e a Dale não gosta dessa palavra, p
 
 > "Pensar é uma maneira de aprender. Pensar é uma forma de investigar os fatos, e se o pensamento é para algum propósito, os fatos encontrados serão relevantes para esse mesmo propósito. Temos então um aprendizado proposital, e uma pessoa está amadurecendo quando suas atividades são disciplinadas por propósito", (Raths, Wassermann, Jonas, and Rothstein, 1967, p. 3).
 
-Na década de 80, durante a presidência de Ronald Reagan o "esclarecimento de valores" foi implementado de forma desastrada, se transformando em "incutir valores pré-definidos". A proposta pedagógica de Raths caiu no esquecimento na educação, mas encontrou um campo próspero na psicologia.
+Na década de 80, durante a presidência de Ronald Reagan o *"esclarecimento de valores"* foi implementado de forma desastrada, se transformando em "incutir valores pré-definidos". A proposta pedagógica de Raths caiu no esquecimento na educação, mas encontrou um campo próspero na psicologia.
 
-Ao mesmo tempo, me parece que a própria Dale Carnegie Training se fechou em si mesma nesse momento, em uma metodologia fechada, o que levou a empresa e os cursos e os treinadores a se comportar, viver e ensinar inflexível e não-adaptável às mudanças do mundo em sua volta. Nos anos 90 a Dale Carnegie corrigiu seus rumos, percebendo melhor o mundo em sua volta e voltando a ser a referência nos treinamentos de habilidades interpessoais.
+Ao mesmo tempo, me parece que a própria Dale Carnegie Training se fechou em si mesma nesse momento, em uma metodologia fechada, o que levou a empresa e os cursos e os treinadores a se comportar, viver e ensinar inflexível e não-adaptável às mudanças do mundo em sua volta. 
+
+Nos anos 90 a Dale Carnegie corrigiu seus rumos, percebendo melhor o mundo em sua volta e voltando a ser a referência nos treinamentos de habilidades interpessoais.
 
 O que ainda é ruim é o marketing.
 
-O ponto negativo: o marketing
------------------------------
+# O ponto negativo: o marketing
 
 Cópias de Dale Carnegie sempre apareceram. A importância das tais Soft Skills é conhecida há milênios. O termo foi criado pelo Exército Americano em 1969. Mas foi a partir de 2010 que o termo virou a nova mania dos recursos humanos e administração.
 
@@ -197,8 +196,7 @@ Há alguns anos a Dale Carnegie passou por uma mudança drástica na identifica�
 
 Mas isso não mudou a forma de vender da Dale Carnegie.
 
-O futuro da Dale Carnegie
---------------------------
+# O futuro da Dale Carnegie
 
 As indicações até hoje são a principal ferramenta de prospecção na Dale Carnegie.
 
@@ -220,8 +218,7 @@ Mas a ênfase em indicações os coloca perigosamente perto do marketing multin�
 
 Por isso as pessoas me perguntam, o **Dale Carnegie vale a pena**?
 
-Dale Carnegie vale a pena?
---------------------------
+# Dale Carnegie vale a pena?
 
 Sim, a Dale Carnegie vale cada centavo investido. O valor dos cursos e treinamentos é alto, mas os resultados são equivalentes, ou maiores. 
 
