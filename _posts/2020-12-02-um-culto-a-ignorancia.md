@@ -7,6 +7,8 @@ tags:
   - Isaac Asimov
 header:
   teaser: /img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f-th.png
+redirect_from:
+  - /2020/11/um-culto-da-ignorancia-por-isaac-asimov.html
 ---
 
 {% include figure image_path="/img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original" caption="Artigo original de Asimov." %}
