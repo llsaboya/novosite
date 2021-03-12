@@ -1,7 +1,7 @@
 <!-- start custom head snippets -->
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
-
+{% if jekyll.environment == "production" %}
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>
   window.OneSignal = window.OneSignal || [];
@@ -19,5 +19,5 @@
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "3ypjc4jokn");
 </script>
-
+{% endif %}
 <!-- end custom head snippets -->
