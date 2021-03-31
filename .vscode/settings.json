@@ -12,5 +12,6 @@
         "Default",
         "Post Formats",
         "image"
-    ]
+    ],
+    "editor.fontFamily": "'SF Mono', 'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
 }
