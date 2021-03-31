@@ -18,7 +18,7 @@ sidebar:
     text: Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional.
   - title: Contato
     text: hello@llsaboya.com
-slug: diagnostico-analise-empresa-made
+permalink: /diagnostico-analise-empresa-made/
 ---
 
 # Introdução
