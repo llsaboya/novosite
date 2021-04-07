@@ -171,3 +171,5 @@ Se você e sua empresa querem melhorar a sua gestão de aprendizado, pesquise o 
 Plínio, ainda na Roma Antiga já sabia disso:
 
 > O homem é o único animal que não aprende nada sem ser ensinado: não sabe falar, nem caminhar, nem comer, enfim, não sabe fazer nada no estado natural, a não ser chorar.
+
+**Esse texto** foi publicado primeiro no [Aula de Negócios](https://llsaboya.com/instructional%20design/instructional-design-na-aprendizagem-corporativa/).
