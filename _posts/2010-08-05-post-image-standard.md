@@ -83,3 +83,5 @@ Image that fills page content container by adding the `.full` class with:
 
 **Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
 {: .notice--danger}
+
+bundle exec jekyll serve --livereload
