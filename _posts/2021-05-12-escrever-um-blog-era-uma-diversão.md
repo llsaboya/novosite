@@ -5,8 +5,9 @@ categories:
     - Notas
 slug: quando-ter-blog-era-divertido
 tags:
-    - blog
-    - cupywriting
+    - Blog
+    - Social midia
+    - Copywriting
 ---
 Quando o blog surgiu era uma diversão. Basicamente, ninguém usava a internet. Então cada leitor era valioso. Todo blog começava pequeno, com apenas seus amigos se importanto em abrir o navegador, digitar seu endereço e ler qualquer bobagem que você postava todos os dias. É como ter o poder de ler pensamentos. Por isso blogs eram tão legais.
 
