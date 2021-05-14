@@ -220,7 +220,7 @@ Por isso as pessoas me perguntam, o **Dale Carnegie vale a pena**?
 
 # Dale Carnegie vale a pena?
 
-Sim, a Dale Carnegie vale cada centavo investido. O valor dos cursos e treinamentos é alto, mas os resultados são equivalentes, ou maiores. 
+Sim, a Dale Carnegie vale cada centavo investido - mas nessas circustâncias. O valor dos cursos e treinamentos é alto, mas os resultados são equivalentes, ou maiores nos casos certos. 
 
 A metodologia é forte e consistente. A qualidade dos cursos é igual aqui ou no Japão (não esqueça que Drucker trabalhou com a Dale Carnegie).
 
