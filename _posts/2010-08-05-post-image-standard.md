@@ -13,6 +13,8 @@ toc: false
 toc_sticky: true
 ---
 
+bundle exec jekyll serve --livereload
+
 ![breves-notas-th](/img/breves-notas-th.png)
 
 ![breves-notas](/img/breves-notas.png)
