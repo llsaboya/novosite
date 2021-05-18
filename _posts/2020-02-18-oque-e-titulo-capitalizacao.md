@@ -2,11 +2,11 @@
 title: Título de Capitalização - O que é e como se vende
 excerpt: 'Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira'
 header:
-  overlay_image: /img/Prize-linked-Savings-Account.jpg
+  overlay_image: /img/museums-victoria-bank-unsplash.jpg
   overlay_filter: 0.5
-  teaser: /img/Prize-linked-Savings-Account.jpg
+  teaser: /img/museums-victoria-bank-unsplash-th.jpg
 categories:
-  - Negócios
+  - Empresarial
 tags:
   - Bancos
   - Título de capitalização

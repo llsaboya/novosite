@@ -3,7 +3,7 @@ title: "Dale Carnegie vale a pena?"
 excerpt: "Descubra se os cursos de soft skills da Dale Carnegie são bons ou pura enganação."
 categories:
   - Instructional Design
-  - Negócios
+  - Empresarial
 tags:
   - Dale Carnegie
   - Soft skills
@@ -15,6 +15,7 @@ header:
   teaser: /img/Dale-Carnegie-1920x1080.th.jpg
 redirect_from:
   - /2020/11/dale-carnegie-vale-pena.html
+  - /instructional design/negócios/dale-carnegie-vale-a-pena/
 toc: true
 toc_sticky: true
 ---

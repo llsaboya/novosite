@@ -3,15 +3,15 @@ title: "Devo pagar por cursos de Soft Skills?"
 excerpt: "Você não desenvolve Soft Skills sozinho. Busque ajuda agora!"
 categories:
   - Instructional Design
-  - Negócios
+  - Empresarial
 tags:
   - Soft skills
   - Hard skills
   - Auto-ajuda
 header:
-  overlay_image: /img/breves-notas.png
+  overlay_image: /img/1-design-l.jpg
   overlay_filter: 0.5
-  teaser: /img/breves-notas-th.png
+  teaser: /img/1-design-t.jpg
 ---
 
 {% include figure image_path="img/soft-skills-nederlia.png" alt="Soft Skills" caption="Só falta inventarem medir isso" %}

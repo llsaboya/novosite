@@ -2,7 +2,7 @@
 title: Scrum Manifesto
 excerpt: Quer saber se a transformação ágil funcionará na sua empresa ou na sua carreira? Se algo do manifesto scrum não funcionar no seu caso, nenhum processo ágil vai te ajudar!
 categories:
-    - Negócios
+    - Empresarial
 tags:
     - Code
     - Consultoria ágil

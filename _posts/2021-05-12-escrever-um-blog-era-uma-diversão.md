@@ -8,6 +8,10 @@ tags:
     - Blog
     - Copywriting
     - Social Media
+header:
+  overlay_image: /img/1-joker-l.jpg
+  overlay_filter: 0.5
+  teaser: /img/1-joker-t.jpg
 ---
 Quando o blog surgiu era uma diversão. Basicamente, ninguém usava a internet. Então cada leitor era valioso. Todo blog começava pequeno, com apenas seus amigos se importanto em abrir o navegador, digitar seu endereço e ler qualquer bobagem que você postava todos os dias. É como ter o poder de ler pensamentos. Por isso blogs eram tão legais.
 

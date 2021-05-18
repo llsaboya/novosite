@@ -6,9 +6,9 @@ categories:
 tags:
   - Code
 header:
-  overlay_image: /img/breves-notas.png
+  overlay_image: /img/1-joker-l.jpg
   overlay_filter: 0.5
-  teaser: /img/breves-notas-th.png
+  teaser: /img/1-joker-t.jpg
 toc: false
 toc_sticky: true
 ---
