@@ -1,6 +1,6 @@
 ---
 title: Tradução - Guia de escrita, por Jordan Peterson
-excerpt: A menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever .
+excerpt: Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.
 header:
   overlay_image: /img/jordan-peterson-writing-guide.jpeg
   overlay_filter: 0.5
