@@ -1,5 +1,5 @@
 ---
-title: Atendimento Bancário
+title: Livro - Atendimento Bancário
 excerpt: Como atender e vender em qualquer Instituição Financeira.
 header:
   overlay_image: /img/museums-victoria-bank-unsplash.jpg

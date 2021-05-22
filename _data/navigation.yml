@@ -24,7 +24,7 @@ main:
     url:  /about/
   - title: "Arquivo"
     url: /categories/
-  - title: "Trabalhos"
+  - title: "Portifólio"
     url: /portfolio/
   # - title: "Terms &amp; Privacy Policy"
   #  url: /terms/

@@ -39,7 +39,7 @@ Com essa fotografia, donos de empresas, líderes e empreendedores podem decidir 
 
 O ***Modelo de Análise e Diagnóstico de Empresa (MADE)*** é baseado no Baldrige Excellence Framework, criado pelo National Institute of Standards and Technology (NIST) do Departamento de Comércio dos Estados Unidos.
 
-**Atenção** Você também pode [baixar o MADE em PDF](https://drive.google.com/file/d/1J6E08DXPKDIHfKGMweTShiQL5dU_v5dG/view?usp=sharing) e imprimir (ou não) para fazer o diagnóstico da sua empresa.
+**Atenção** Você também pode [baixar o MADE em PDF](/goodies/Made.pdf) e imprimir (ou não) para fazer o diagnóstico da sua empresa.
 {: .notice--info}
 
 ## Como Responder Ao Questionário
