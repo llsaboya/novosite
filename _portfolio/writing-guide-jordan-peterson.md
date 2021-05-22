@@ -20,7 +20,7 @@ sidebar:
     text: hello@llsaboya.com
 permalink: /writing-guite-jordan-peterson/
 ---
----
+# Como escrever um ensaio
 
 **Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, já sabe ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Made.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
 {: .notice--info}
