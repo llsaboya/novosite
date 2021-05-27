@@ -1,6 +1,6 @@
 ---
-title: content
-excerpt: content
+title: Hello World
+excerpt: Breves notas
 categories:
   - Notas
 tags:
@@ -42,8 +42,6 @@ header:
 
 {% endraw %}
 ```
-
-
 
 **or Kramdown:**
 
