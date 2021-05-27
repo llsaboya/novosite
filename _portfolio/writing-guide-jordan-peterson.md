@@ -1,27 +1,26 @@
 ---
-
-title: Tradução - Guia de escrita, por Jordan Peterson
-excerpt: Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.
+title: 'Tradução - Guia de escrita, por Jordan Peterson'
+excerpt: 'Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.'
 header:
   overlay_image: /img/jordan-peterson-writing-guide.jpeg
   overlay_filter: 0.5
   teaser: /img/jordan-peterson-writing-guide-th.jpeg
-last_modified_at: 2021-05-22T00:00:00.000Z
+last_modified_at: 2021-05-24T00:00:00.000Z
 toc: true
 toc_label: Índice
 toc_sticky: true
 sidebar:
-
-- title: Cargos
-  image: /img/Portifolio-350-250.png
-  image_alt: Lefebvre de Saboya
-  text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
-- title: Responsabilidades
-  text: Tentando ajudar as pessoas a escrever melhor.
-- title: Contato
-  text: hello@llsaboya.com
-  permalink: /writing-guite-jordan-peterson/
-
+  - title: Cargos
+    image: /img/Portifolio-350-250.png
+    image_alt: Lefebvre de Saboya
+    text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
+  - title: Responsabilidades
+    text: Tentando ajudar as pessoas a escrever melhor.
+  - title: Contato
+    text: hello@llsaboya.com
+    permalink: /writing-guite-jordan-peterson/
+tags:
+  - Jordan Peterson
 ---
 
 # Como escrever um ensaio
