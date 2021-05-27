@@ -1,4 +1,5 @@
 ---
+
 title: Tradução - Guia de escrita, por Jordan Peterson
 excerpt: Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.
 header:
@@ -10,22 +11,25 @@ toc: true
 toc_label: Índice
 toc_sticky: true
 sidebar:
-  - title: Cargos
-    image: /img/Portifolio-350-250.png
-    image_alt: Lefebvre de Saboya
-    text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
-  - title: Responsabilidades
-    text: Tentando ajudar as pessoas a escrever melhor.
-  - title: Contato
-    text: hello@llsaboya.com
-permalink: /writing-guite-jordan-peterson/
+
+- title: Cargos
+  image: /img/Portifolio-350-250.png
+  image_alt: Lefebvre de Saboya
+  text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
+- title: Responsabilidades
+  text: Tentando ajudar as pessoas a escrever melhor.
+- title: Contato
+  text: hello@llsaboya.com
+  permalink: /writing-guite-jordan-peterson/
+
 ---
+
 # Como escrever um ensaio
 
-**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, já sabe ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Made.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
+**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Made.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
 {: .notice--info}
 
-Você pode usar este documento do Word para escrever uma excelente ensaio, do início ao fim, usando um processo de dez passos. Na maioria das vezes, os alunos ou aspirantes a redatores recebem apenas informações básicas sobre como escrever, e a maior parte dessas informações concentra-se nos detalhes da formatação. Esses são detalhes necessários, mas escrever é obviamente muito mais do que a mera formatação. Se você escrever sua redação seguindo esse plano e concluir todas as etapas, produzirá uma redação que é, pelo menos, muito boa. Você também aprenderá exatamente como escrever um ensaio, o que é algo muito valioso de se aprender.
+Você pode usar este documento do Word para escrever uma excelente ensaio, do início ao fim, usando um processo de dez passos. Na maioria das vezes, os alunos ou aspirantes a escritores recebem apenas informações básicas sobre como escrever, e a maior parte dessas informações concentra-se nos detalhes da formatação. Esses são detalhes necessários, mas escrever é obviamente muito mais do que a mera formatação de texto. Se você escrever seu ensaio seguindo esse plano, ao concluir todas as etapas, produzirá uma redação que é, pelo menos, muito boa. Você também aprenderá exatamente como escrever um ensaio, o que é algo muito valioso para se aprender.
 
 Para começar a escrever seu ensaio, vá para a próxima parte, para o primeiro passo: introdução.
 
@@ -37,15 +41,14 @@ Um ensaio é um texto relativamente curto sobre um assunto em particular. No ent
 
 ## Por que se preocupar em escrever um ensaio?
 
-Na maioria das vezes, os alunos escrevem ensaios apenas porque são obrigados a fazê-lo por um professor. Assim, os alunos passam a acreditar que ensaios são importantes primeiro para demonstrar seus conhecimentos a um professor. Isso é simplesmente, e perigosamente, errado (embora, na prática, a escrita para demonstração possa ser necessária).
+Via de regra, os alunos escrevem ensaios apenas porque são obrigados por um professor. Assim, os alunos passam a acreditar que ensaios são importantes primeiro para demonstrar seus conhecimentos a um professor. Isso é simplesmente, e perigosamente, errado (embora, na prática, a escrita para demonstração de conhecimento possa ser necessária).
 
-A principal razão para escrever um ensaio é para que o escritor possa formular e organizar um conjunto de idéias bem informadas, coerentes e sofisticadas sobre algo importante.
+A principal razão para escrever um ensaio é para o escritor conseguir formular e organizar um conjunto de idéias bem informadas, coerentes e sofisticadas sobre algo importante.
 {: .notice--success}
 
+No que diz respeito a questão, por que é importante se preocupar com o desenvolvimento de ideias sofisticadas? Para começar, porque não há diferença entre fazer isso e pensar. Pensar é importante porque agir baseado no pensamento provavelmente será bem menos doloroso e bem mais produtivo do que a ações baseadas na ignorância. Portanto, se você deseja ter uma vida caracterizada pela competência, produtividade, segurança, originalidade e engajamento, ao invés de uma vida desagradável, bruta e curta, você precisa pensar cuidadosamente sobre questões importantes. Não há melhor maneira de fazer isso do que escrevendo. Isso porque a escrita amplia sua memória, facilita a edição e elucida seus pensamentos.
 
-No que diz respeito, por que é importante se preocupar com o desenvolvimento de ideias sofisticadas? Para começar, porque não há diferença entre fazer isso e pensar. Pensar é importante porque agir baseado no pensamento provavelmente será muito menos doloroso e mais produtivo do que a ações baseadas na ignorância. Portanto, se você deseja ter uma vida caracterizada pela competência, produtividade, segurança, originalidade e engajamento, ao invés de uma vida desagradável, brutal e curta, você precisa pensar cuidadosamente sobre questões importantes. Não há melhor maneira de fazer isso do que escrever. Isso porque a escrita amplia sua memória, facilita a edição e elucida seus pensamentos.
-
-Você pode escrever mais do que pode facilmente se lembrar, assim sua capacidade de considerar várias idéias ao mesmo tempo se amplia. Além disso, uma vez que essas ideias são escritas, você pode movê-las e alterá-las, palavra por palavra, frase por frase e parágrafo por parágrafo. Você também pode rejeitar ideias que pareçam estar abaixo do padrão, depois de analisá-las com mais cuidado. Se você rejeitar ideias abaixo do padrão, tudo o que restará serão boas ideias. Você pode mantê-las e usá-las. Assim, você terá ao seu alcance ideias boas e originais; e poderá organizá-las e comunicá-las.
+Você pode escrever mais do que pode se lembrar à primeira vista, assim sua capacidade de considerar várias idéias ao mesmo tempo se amplia. Além disso, uma vez que essas ideias são escritas, você pode movê-las e alterá-las, palavra por palavra, frase por frase e parágrafo por parágrafo. Você também pode rejeitar ideias que pareçam inferiores ao padrão, depois de analisá-las com mais cuidado. Se você rejeitar ideias abaixo do padrão, tudo o que restará serão boas ideias. Você pode mantê-las e usá-las. Assim, você terá ao seu alcance ideias boas e originais; e poderá organizá-las e comunicá-las.
 
 Considere seu sucesso ao longo da vida. Aqui está algo para você pensar: a pessoa que pode formular e comunicar o melhor argumento quase sempre vence. Se você quer um emprego, tem de se valorizar. Se você quer um aumento, você precisa convencer alguém de que você merece. Se você está tentando convencer pessoas da validade de sua ideia, deve debater seus méritos com sucesso, principalmente se houver outras pessoas com outras ideias concorrentes.
 
@@ -53,11 +56,11 @@ Se você aguçar sua capacidade de pensar e se comunicar, como consequência da 
 
 Se você aprender a escrever e editar, também será capaz de distinguir entre boas ideias, apresentadas de forma inteligente, e más ideias, despejadas por pensadores obscuros e sem qualificação. Isso significa que você será capaz de separar o joio do trigo (procure). Então, você pode de deixar ser influenciado adequadamente por ideias profundas e sólidas, em vez de cair em modismos, caprichos e ideologias tolas, que podem variar em seu perigo, do trivial ao mortal.
 
-Aqueles que podem pensar e se comunicar são, simplesmente, mais poderosos do que aqueles que não podem, além de poderosos no bom sentido, o que significa \"capaz de fazer uma ampla gama de coisas com competência e eficiência\". Além disso, quanto mais você sobe na escada da competência, com seus pensamentos bem formulados, mais importante o pensamento e a comunicação se tornam. No topo das hierarquias mais complexas (direito, medicina, universidades, negócios, teologia, política) nada é mais necessário e valioso. Se você pode pensar e se comunicar, também pode defender a si mesmo, a seus amigos e familiares, quando for necessário, e isso será necessário em vários momentos de sua vida.
+Aqueles que podem pensar e se comunicar são, simplesmente, mais poderosos do que aqueles que não podem, além de poderosos no bom sentido, o que significa "capaz de fazer uma ampla gama de coisas com competência e eficiência". Além disso, quanto mais você sobe na escada da competência, com seus pensamentos bem formulados, mais importante o pensamento e a comunicação se tornam. No topo das hierarquias mais complexas (direito, medicina, universidades, negócios, teologia, política) nada é mais necessário e valioso. Se você pode pensar e se comunicar, também pode defender a si mesmo, a seus amigos e familiares, quando for necessário, e isso será necessário em vários momentos de sua vida.
 
-Finalmente, é útil notar que sua mente é organizada verbalmente nos níveis mais elevados e abstratos. Assim, se você aprender a pensar, por meio da escrita, desenvolverá uma mente bem organizada e eficiente, bem fundamentada e segura. Isso também significa que você será mais saudável, mental e fisicamente, pois a falta de clareza e ignorância significam estresse desnecessário. O estresse desnecessário faz seu corpo reagir  ao que, de outra forma, poderia ser tratado como algo trivial. Isso causa um gasto excessivo de energia e  envelhecimento mais rápido (junto com todas as consequências negativas do envelhecimento para a saúde).
+Finalmente, é útil notar que sua mente é organizada verbalmente nos níveis mais altos e abstratos. Assim, se você aprender a pensar, por meio da escrita, desenvolverá uma mente bem organizada e eficiente, bem fundamentada e segura. Isso também significa que você será mais saudável, mental e fisicamente, pois a falta de clareza e a ignorância significam estresse desnecessário. O estresse desnecessário faz seu corpo reagir ao que, de outra forma, poderia ser tratado como algo trivial. Isso causa um gasto excessivo de energia e envelhecimento mais rápido (junto com todas as consequências negativas do envelhecimento na saúde).
 
-Então, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever (e a pensar e a se comunicar). Do contrário, aqueles que puderem passarão por cima de você e o jogarão para escanteio. Sua vida será mais difícil, enterrado nas hierarquias de dominação nas quais você inevitavelmente viverá, e envelhecerá rapidamente.
+Então, a menos que você queira continuar sendo um ignorante e sem ter substância, aprenda a escrever (e a pensar, e a se comunicar). Do contrário, aqueles que puderem passarão por cima de você e o jogarão para escanteio. Sua vida será mais difícil, enterrado nas hierarquias de dominação nas quais você inevitavelmente viverá, e envelhecerá rapidamente.
 
 Nunca subestime o poder das palavras. Sem elas ainda estaríamos vivendo em árvores. Portanto, quando você está escrevendo um ensaio, você aproveita todo o poder da cultura para sua vida. É por isso que você escreve um ensaio (mesmo se ele for uma obrigação). Esqueça essa importância e você estará fazendo algo estúpido, trivial e enfadonho. Lembre-se disso e você estará conquistando o desconhecido.
 
@@ -65,11 +68,11 @@ Nunca subestime o poder das palavras. Sem elas ainda estaríamos vivendo em árv
 
 Se você é um estudante, ou qualquer outra pessoa que vai escrever muito, então você deve se dar ao direito de ter a tecnologia certa, especialmente agora, quando é virtualmente grátis. Obviamente, você precisa de um computador. Não precisa ser de última geração, embora um SSD seja um bom investimento para velocidade. Menos óbvio, você precisa de duas telas, uma configurada ao lado da outra. Elas não precisam ser maiores que 19" na diagonal. Até monitores de 17" funcionarão bem. Alta resolução é melhor. Você precisa das duas telas para que possa apresentar seu material de referência em uma tela e seu texto (ou mesmo duas versões de sua redação, lado a lado) na outra.
 
-Ter esse espaço visual extra importa. Isso o deixará menos sobrecarregado e mais eficiente. Um bom teclado (como o Teclado Ergonômico Natural da Microsoft) também é um excelente investimento. Os teclados padrão machucam suas mãos se você usá-los continuamente, e quanto menos se fala sobre o teclado de um notebook, melhor. Use um bom mouse também, e não um touchpad, o que requer muitos movimentos meticulosos para alguém que está realmente escrevendo. Configure os teclados de forma que você olhe diretamente para o centro quando estiver sentado ereto. Use uma cadeira decente e sente-se de forma que seus pés possam descansar confortavelmente no chão quando seus joelhos estiverem dobrados em 90 graus. Essas não são questões triviais. Você pode passar horas trabalhando nos seus textos, então terá que criar um espaço de trabalho que não o incomode, ou terá apenas mais um bom motivo para fugir de suas tarefas e atribuições.
+Ter esse espaço visual extra importa. Isso o deixará menos sobrecarregado e mais eficiente. Um bom teclado (como o Teclado Ergonômico Natural da Microsoft) também é um excelente investimento. Os teclados padrão machucam suas mãos se você usá-los continuamente, e quanto menos se fala sobre o teclado de um notebook, melhor. Use um bom mouse também, e não um *touchpad*, o que requer muitos movimentos meticulosos para alguém que está realmente escrevendo. Configure os teclados de forma que você olhe diretamente para o centro quando estiver sentado ereto. Use uma cadeira decente e sente-se de forma que seus pés possam descansar confortavelmente no chão quando seus joelhos estiverem dobrados em 90 graus. Essas não são questões triviais. Você pode passar horas trabalhando nos seus textos, então terá que criar um espaço de trabalho que não o incomode, ou terá apenas mais um bom motivo para fugir de suas tarefas e atribuições.
 
 ## Uma nota sobre o aproveitamento do tempo
 
-O cérebro das pessoas funciona melhor de manhã. Levante-se. Coma alguma coisa. Você fica mais inteligente e resiliente depois de dormir e comer adequadamente. Existem sólidas pesquisas que demonstram isso. O café sozinho é contraproducente. Coma alguma proteína e alguma gordura. Faça uma vitamina com frutas e iogurte de verdade. Saia e compre um café da manhã barato, se necessário. Coma de qualquer jeito, mas coma. Prepare-se para gastar entre 90 minutos a três horas escrevendo. No entanto, até 15 minutos podem ser aproveitados, principalmente se você fizer isso todos os dias.
+O cérebro das pessoas funciona melhor de manhã. Levante-se. Coma alguma coisa. Você fica mais inteligente e resiliente depois de dormir e comer de maneira adequada. Existem sólidas pesquisas que demonstram isso. O café sozinho é contraproducente. Coma alguma proteína e alguma gordura. Faça uma vitamina com frutas e iogurte de verdade. Saia e compre um café da manhã simples, se necessário. Coma de qualquer jeito, mas coma. Prepare-se para gastar entre 90 minutos a três horas escrevendo. No entanto, até 15 minutos podem ser aproveitados, principalmente se você fizer isso todos os dias.
 
 Não espere por muito tempo livre para começar. Você nunca terá grandes quantidades de tempo livre em sua vida, então não torne seu sucesso dependente deles (tempo livre não existe). Os escritores mais eficazes escrevem todos os dias, pelo menos um pouco.
 
@@ -81,7 +84,7 @@ Não se iluda pensando que escreverá por seis horas também. Três é o máximo
 
 ## Palavras, frases, parágrafos e mais
 
-Um ensaio, como qualquer texto, existe em vários níveis de resolução simultaneamente. **Primeiro** vem a seleção da palavra. O **segundo** é a elaboração da frase. Cada palavra deve ser a palavra certa, no local certo, em cada frase. A frase, ela mesma deve apresentar um pensamento, parte da ideia expressa no parágrafo, de forma gramaticalmente correta. Cada frase deve ser devidamente organizada e sequenciada dentro de um parágrafo, o **terceiro** nível de resolução. Como regra geral, um parágrafo deve ser composto de pelo menos 10 sentenças ou 100 palavras. Isso parece uma regra estúpida, porque é arbitrária. No entanto, você deve deixá-la te guiar, até que você saiba escrever melhor. Você tem pouco direito de quebrar regras até dominá-las.
+Um ensaio, como qualquer texto, existe em vários níveis de resolução ao mesmo tempo. **Primeiro** vem a seleção da palavra. O **segundo** nível é a elaboração da frase. Cada palavra deve ser a palavra certa, no local certo, em cada frase. A frase, ela mesma deve apresentar um pensamento, parte da ideia expressa no parágrafo, de forma gramaticalmente correta. Cada frase deve ser devidamente organizada e sequenciada dentro de um parágrafo, o **terceiro** nível de resolução. Como regra geral, um parágrafo deve ser composto de pelo menos 10 sentenças ou 100 palavras. Isso parece uma regra estúpida, porque é arbitrária. No entanto, você deve deixá-la te guiar, até que você saiba escrever melhor. Você tem pouco direito de quebrar regras até dominá-las.
 
 Aqui está uma pequena história para ilustrar essa ideia, retirada em parte de um documento chamado *Codex Bezae*.
 
@@ -123,27 +126,27 @@ Dito tudo isso, aqui está algo para lembrar: o *finalizado* vence o *perfeito*.
 
 A questão central que você está tentando responder com o ensaio é o assunto em questão. Aqui estão algumas questões de tópico potencialmente interessantes:
 
--   O mal existe?
+- O mal existe?
 
--   Todas as culturas são igualmente dignas de respeito?
+- Todas as culturas são igualmente dignas de respeito?
 
--   Como um homem e uma mulher devem tratar um ao outro em um relacionamento?
+- Como um homem e uma mulher devem tratar um ao outro em um relacionamento?
 
--   O que torna uma pessoa boa, se é que existe alguma coisa?
+- O que torna uma pessoa boa, se é que existe alguma coisa?
 
 Esses são tópicos muito gerais e abstratos. Isso os torna filosóficos. Bons tópicos não precisam ser tão gerais. Aqui estão alguns tópicos bons e mais específicos:
 
--   Quais foram os principais eventos do governo de Júlio César?
+- Quais foram os principais eventos do governo de Júlio César?
 
--   Quais são os elementos principais da teoria da evolução de Charles Darwin?
+- Quais são os elementos principais da teoria da evolução de Charles Darwin?
 
--   "O sol também se levanta", de Ernest Hemingway, é um livro importante?
+- "O sol também se levanta", de Ernest Hemingway, é um livro importante?
 
--   Como a teoria da psique de Carl Jung e Sigmund Freud pode ser contrastada?
+- Como a teoria da psique de Carl Jung e Sigmund Freud pode ser contrastada?
 
--   Como Newton e Einstein se diferenciam na conceituação de tempo?
+- Como Newton e Einstein se diferenciam na conceituação de tempo?
 
--   A recente guerra do Iraque foi justa ou injusta?
+- A recente guerra do Iraque foi justa ou injusta?
 
 Você pode começar o processo de redação de duas maneiras diferentes. Você pode listar os tópicos atribuídos ou listar dez ou mais perguntas que você poderia querer responder (se for obrigado a escolher seu próprio tópico) ou pode começar a criar e definir uma *lista de leitura*. Se você acha que já pode identificar vários tópicos de interesse em potencial, comece com *Tópicos*. Se você não tiver certeza, comece a construir sua *Lista de Leitura*.
 
@@ -153,16 +156,16 @@ ESCOLHA ENTRE TÓPICOS e LISTA DE LEITURA
 
 Coloque-os em forma de pergunta, como nos exemplos acima.
 
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+    1.
+    2.
+    3.
+    4.
+    5.
+    6.
+    7.
+    8.
+    9.
+    10.
 
 Se não puder fazer isso, você terá que fazer mais algumas leituras (o que provavelmente você terá que fazer para completar o ensaio de qualquer maneira) . A propósito, não existe *bloqueio de leitor.* Se você não consegue escrever, é porque não tem nada a dizer. Você não tem ideias. Em tal situação, não se orgulhe de seu *bloqueio de escritor*. Leia alguma coisa. Se isso não funcionar, leia outra coisa - talvez algo melhor. Repita até que o problema seja resolvido.
 
@@ -174,35 +177,35 @@ Se você encontrar alguém cujo os textos sejam particularmente interessantes e 
 
 Suponha que você precise de 5 a 10 livros ou artigos por mil palavras para seu ensaio, a menos que tenha sido instruído de outra forma. Uma página digitada em espaço duplo geralmente contém cerca de 250 palavras. Liste suas fontes agora, mesmo se você tiver que fazer isso mal. Você sempre pode fazer melhor mais tarde.
 
-	Leitura 1.
-	Notas: (consulte a próxima seção para Notas sobre Notas):
-	
-	Leitura 2.
-	Notas:
-	
-	Leitura 3.
-	Notas:
-	
-	Leitura 4.
-	Notas:
-	
-	Leitura 5.
-	Notas:
-	
-	Leitura 6.
-	Notas:
-	
-	Leitura 7.
-	Notas:
-	
-	Leitura 8.
-	Notas:
-	
-	Leitura 9.
-	Notas:
-	
-	Leitura 10 (repetir se necessário).
-	Notas (repita se necessário):`
+    Leitura 1.
+    Notas: (consulte a próxima seção para Notas sobre Notas):
+    
+    Leitura 2.
+    Notas:
+    
+    Leitura 3.
+    Notas:
+    
+    Leitura 4.
+    Notas:
+    
+    Leitura 5.
+    Notas:
+    
+    Leitura 6.
+    Notas:
+    
+    Leitura 7.
+    Notas:
+    
+    Leitura 8.
+    Notas:
+    
+    Leitura 9.
+    Notas:
+    
+    Leitura 10 (repetir se necessário).
+    Notas (repita se necessário):`
 
 ## Uma nota psicológica e algumas notas sobre notas.
 
@@ -222,101 +225,101 @@ Faça cerca de duas a três vezes mais notas do que você precisará para sua re
 
 Neste ponto, você preparou uma lista de tópicos e uma lista de leitura. Agora é hora de escolher um tópico.
 
-	INSIRA O TÓPICO AQUI
-	
-	1.
+    INSIRA O TÓPICO AQUI
+    
+    1.
 
 Aqui está outra regra. Ao escrever seu primeiro rascunho, ele deve ser mais longo do que a versão final. Isso é para que você tenha alguma texto extra para jogar fora. Você quer ter algo para jogar fora após o primeiro rascunho, de modo que só tenha de ficar com o que é bom. Não é mais rápido tentar escrever exatamente quantas palavras você precisa quando se sentar pela primeira vez para escrever. Tentar fazer isso apenas te torna consciente demais do que está escrevendo e essa preocupação vai atrasá-lo. Procure produzir um primeiro rascunho 25% mais longo do que o rascunho final deve ser. Se o seu trabalho final tiver 1000 palavras, escreva 1250 palavras.
 
 Agora especifique a extensão do seu ensaio.
 
-	PALAVRAS:
-	
-	PÁGINAS:
-	
-	ADICIONE 25% AOS COMPRIMENTOS ACIMA
+    PALAVRAS:
+    
+    PÁGINAS:
+    
+    ADICIONE 25% AOS COMPRIMENTOS ACIMA
 
 Agora você tem que fazer um esboço. **Esta é a parte mais difícil de escrever um ensaio** e não é opcional. O esboço de um ensaio é como o esqueleto de um corpo. Ele fornece sua forma e sua estrutura fundamental. Além disso, o esboço é basicamente o argumento (com as próprias sentenças e palavras que servem a esse argumento).
 
 Um ensaio de mil palavras requer um esboço de dez frases. No entanto, o esboço fundamental de um ensaio não deve ultrapassar quinze frases, mesmo que o ensaio tenha milhares de palavras, ou mais. Isso ocorre porque é difícil manter sua concentração em um argumento maior do que esse comprimento, de uma vez só, para que você possa avaliar a qualidade da estrutura. Portanto, escreva um esboço de dez a quinze frases do seu ensaio e, se for mais longo do que mil palavras, faça esboços adicionais para cada frase do esboço principal. Aqui está um exemplo de um bom esboço simples:
 
--   Tópico: Quem foi Abraham Lincoln?
+- Tópico: Quem foi Abraham Lincoln?
 
--   Por que Abraham Lincoln é digno de ser lembrado?
+- Por que Abraham Lincoln é digno de ser lembrado?
 
--   Quais foram os eventos principais da sua infância?
+- Quais foram os eventos principais da sua infância?
 
--   E da sua adolescência?
+- E da sua adolescência?
 
--   E da sua juventude adulta?
+- E da sua juventude adulta?
 
--   Como ele entrou na política?
+- Como ele entrou na política?
 
--   Quais foram seus principais desafios?
+- Quais foram seus principais desafios?
 
--   Quais foram as principais questões políticas e econômicas da sua época?
+- Quais foram as principais questões políticas e econômicas da sua época?
 
--   Quem eram seus inimigos?
+- Quem eram seus inimigos?
 
--   Como ele lidou com eles?
+- Como ele lidou com eles?
 
--   Quais foram suas principais realizações?
+- Quais foram suas principais realizações?
 
--   Como ele morreu?
+- Como ele morreu?
 
 Aqui está um exemplo de um bom esboço mais longo (para um ensaio de três mil palavras):
 
--   Tópico: O que é capitalismo?
+- Tópico: O que é capitalismo?
 
--   Como o capitalismo foi definido?
+- Como o capitalismo foi definido?
+  
+  - Autor 1
+  
+  - Autor 2
+  
+  - Autor 3
 
-    -   Autor 1
+- Onde e quando o capitalismo se desenvolveu?
+  
+  - País 1
+  
+  - País 2
 
-    -   Autor 2
+- Como o capitalismo se desenvolveu nos primeiros 50 anos após sua origem?
+  
+  - Como o capitalismo se desenvolveu depois dos primeiros 50 anos após sua origem?
+  
+  - (Repita conforme necessário)
 
-    -   Autor 3
+- Precursores históricos?
+  
+  - (escolha quantos séculos forem necessários)
 
--   Onde e quando o capitalismo se desenvolveu?
+- Vantagens do capitalismo?
+  
+  - Geração de riqueza
+  
+  - Avanço tecnológico
+  
+  - Liberdade pessoal
 
-    -   País 1
+- Desvantagens do capitalismo?
+  
+  - Distribuição desigual
+  
+  - Poluição e outros custos externalizados
 
-    -   País 2
+- Alternativas ao capitalismo?
+  
+  - Fascismo
+  
+  - Comunismo
 
--   Como o capitalismo se desenvolveu nos primeiros 50 anos após sua origem?
+- Consequências dessas alternativas?
 
-    -   Como o capitalismo se desenvolveu depois dos primeiros 50 anos após sua origem?
+- Desenvolvimentos futuros possíveis?
 
-    -   (Repita conforme necessário)
-
--   Precursores históricos?
-
-    -   (escolha quantos séculos forem necessários)
-
--   Vantagens do capitalismo?
-
-    -   Geração de riqueza
-
-    -   Avanço tecnológico
-
-    -   Liberdade pessoal
-
--   Desvantagens do capitalismo?
-
-    -   Distribuição desigual
-
-    -   Poluição e outros custos externalizados
-
--   Alternativas ao capitalismo?
-
-    -   Fascismo
-
-    -   Comunismo
-
--   Consequências dessas alternativas?
-
--   Desenvolvimentos futuros possíveis?
-
--   Conclusão
+- Conclusão
 
 Cuidado com a tendência de escrever introduções e conclusões banais, repetitivas e clichês. Muitas vezes é útil *escrever* uma introdução genérica (qual é o propósito deste ensaio? Como isso vai se desenvolver?) e uma conclusão genérica (como este ensaio foi feito? Qual era o seu propósito?), mas isso deveria ser descartado depois. Escreva seu esboço aqui. Tente uma frase de esboço para cada 100 palavras do ensaio. Você pode adicionar subdivisões, como no exemplo referente ao capitalismo, acima.
 
@@ -363,7 +366,7 @@ Aqui está um exemplo de escrita associada a uma pergunta no esboço: (nota: os 
 **Pergunta de esboço: Como o capitalismo foi definido?**
 
 > *Algo tão complexo como o capitalismo não pode ser facilmente definido. Cada um dos diferentes autores ofereceu sua opinião. Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX). Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central. Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência. Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.* 
->
+> 
 > *O Movimento Socialista Mundial (REFERÊNCIA, 19XX), um consórcio internacional de partidos políticos de extrema esquerda, define o capitalismo, em contraste, como a propriedade dos meios de produção por uma pequena minoria de pessoas, a classe capitalista, que explora lucrativamente a classe trabalhadora, os produtores genuínos, que devem vender sua capacidade de trabalhar por um salário ou ordenado. Esses socialistas acreditam que é apenas o lucro o motivador do capitalismo e que a motivação do lucro é essencialmente corrupta. Ambientalistas modernos tendem a adicionar o próprio mundo natural à lista de alvos capitalistas de exploração (REFERÊNCIA, 19XX). Os pensadores da direita tendem a considerar os problemas que emergem do sistema capitalista como reais, mas triviais em comparação com aqueles produzidos por outros sistemas econômicos e políticos, reais e hipotéticos. Os pensadores da extrema esquerda consideram o capitalismo a causa central de problemas tão sérios como a pobreza, a desigualdade e a degradação ambiental, e acreditam que existem outros sistemas políticos e econômicos cuja implementação constituiria uma melhoria.*
 
 Demorou dois parágrafos para começar a abordar a primeira frase de esboço. Observe que o ensaio começa sem se referir a si mesmo. É bom dizer ao leitor sobre o que será o ensaio e como o tópico será abordado do que perambular estupidamente no início de um ensaio, mas ainda melhor é chamar a atenção do leitor imediatamente, sem rodeios. 
@@ -381,28 +384,28 @@ Parágrafo 1:
 Agora, coloque cada frase em sua própria linha, para que fique assim (este exemplo é retirado do primeiro parágrafo sobre o capitalismo, acima):
 
 > *Algo tão complexo como o capitalismo não pode ser facilmente definido.* 
->
+> 
 > *Cada um dos diferentes autores ofereceu sua opinião.* 
->
+> 
 > *Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX).* 
->
+> 
 > *Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central.* 
->
+> 
 > *Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.* 
->
+> 
 > *Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.*
 
 **Agora, escreva outra versão de cada frase, abaixo de cada frase, assim:**
 
 > ~~*Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.*~~
->
+> 
 > *Pensadores liberais e conservadores enfatizam a importância da qualidade e da eficiência e os vêem como devidamente recompensados ​​pelo lucro.*
 
 Neste exemplo, o significado da frase foi ligeiramente alterado durante a reescrita. Pode ser que a segunda frase flua melhor do que a primeira e também seja mais precisa e significativa. Veja se você consegue deixar cada frase que escreveu melhor, de maneira semelhante:
 
--   Melhor significa *mais curto e mais simples* (já que todas as palavras desnecessárias devem ser eliminadas). Não há outra coisa que um escritor novato possa fazer para melhorar sua escrita mais rapidamente do que escrever frases muito curtas. Veja se você pode cortar o comprimento de cada frase em 15-25%. Lembre-se que, antes, você tentou tornar seu ensaio mais longo do que o necessário. Aqui você pode começar a limpar.
+- Melhor significa *mais curto e mais simples* (já que todas as palavras desnecessárias devem ser eliminadas). Não há outra coisa que um escritor novato possa fazer para melhorar sua escrita mais rapidamente do que escrever frases muito curtas. Veja se você pode cortar o comprimento de cada frase em 15-25%. Lembre-se que, antes, você tentou tornar seu ensaio mais longo do que o necessário. Aqui você pode começar a limpar.
 
--   Melhor significa que cada palavra é *precisa e exatamente a palavra certa*. Não fique tentado a usar nenhuma palavra que você se sinta desconfortável em uma conversa normal. Frequentemente, novos escritores tentam impressionar seus leitores com seu vocabulário. Isso geralmente sai pela culatra quando são usadas palavras que são tecnicamente corretas, mas cuja conotação não é; ou que são inadequadas no contexto da frase, parágrafo ou ensaio completo. Um escritor de verdade identificará essas falhas imediatamente e as verá como são: formas de camuflagem e engano. Escreva de forma clara e no nível de vocabulário que você domina (talvez com um pouco de ousadia, para produzir algo melhor).
+- Melhor significa que cada palavra é *precisa e exatamente a palavra certa*. Não fique tentado a usar nenhuma palavra que você se sinta desconfortável em uma conversa normal. Frequentemente, novos escritores tentam impressionar seus leitores com seu vocabulário. Isso geralmente sai pela culatra quando são usadas palavras que são tecnicamente corretas, mas cuja conotação não é; ou que são inadequadas no contexto da frase, parágrafo ou ensaio completo. Um escritor de verdade identificará essas falhas imediatamente e as verá como são: formas de camuflagem e engano. Escreva de forma clara e no nível de vocabulário que você domina (talvez com um pouco de ousadia, para produzir algo melhor).
 
 Leia cada frase em voz alta e escute como ela soa. Se for estranho, veja se você pode dizer a mesma coisa de uma maneira diferente e melhor. Escute o que você disse e anote. Reescreva cada frase. Depois de fazer isso com todas as frases, leia as versões antigas e as novas, então substitua a antiga pela nova se a nova for melhor. Em seguida, copie o novo parágrafo aqui:
 
