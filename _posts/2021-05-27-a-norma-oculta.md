@@ -1,14 +1,20 @@
 ---
-title: A Norma Oculta, por Marcos Bagno
-excerpt: "A Norma Oculta é um livro cheio de erros infantis de discurso, raciocínio e análise e não deveria ser levado a sério."
+title: 'A Norma Oculta, por Marcos Bagno'
+excerpt: 'A Norma Oculta é um livro cheio de erros infantis de discurso, raciocínio e análise e não deveria ser levado a sério.'
 categories:
-  - Comunicação
+    - Comunicação
 tags:
-  - Lingüística
+    - Lingüística
+    - Língua portuguesa
+    - Marcos Bagno
+    - Norma culta
+    - Preconceito
+    - Resenha
+    - Norma oculta
 header:
-  overlay_image: /img/1-comunicacao-l.jpg
-  overlay_filter: 0.5
-  teaser: /img/a-norma-oculta.jpg
+    overlay_image: /img/1-comunicacao-l.jpg
+    overlay_filter: 0.5
+    teaser: /img/a-norma-oculta.jpg
 toc: false
 toc_sticky: true
 ---
