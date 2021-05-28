@@ -68,3 +68,6 @@ Podemos começar perguntando a nós mesmo se a ignorância é tão maravilhosa n
 Acredito que qualquer ser humano com um cérebro fisiologicamente normal pode aprender um monte de coisas e ser surpreendentemente inteligente. Acredito que o que precisamos desesperadamente é aprovação social do conhecimento e de recompensas sociais pelo aprendizado.
 
 Todos podemos ser membros da elite intelectual e assim, apenas assim, uma frase como "*O Direito de Saber da América*" e, de fato, qualquer conceito de democracia terão algum significado.
+
+Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).
+{: .notice--primary}
