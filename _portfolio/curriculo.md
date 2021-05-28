@@ -1,7 +1,7 @@
 ---
 title: "Currículo Profissional"
 permalink: /profissional/
-excerpt: "Curriculum Vitae"
+excerpt: "O curriculum vitae é uma síntese de aptidões e qualificações, na qual o candidato a alguma vaga de emprego descreve, dados pessoais para contato, formação acadêmica e experiência profissional."
 header:
   overlay_image: /img/Banner-LinkedIn.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

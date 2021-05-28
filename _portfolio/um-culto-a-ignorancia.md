@@ -1,14 +1,26 @@
 ---
-title: "Um Culto da Ignorância, por Isaac Asimov"
-excerpt: "Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento"
-categories:
-  - Cultura
+title: "Tradução - Um Culto da Ignorância, por Isaac Asimov"
+excerpt: "Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento."
 tags:
   - Isaac Asimov
 header:
+  overlay_image: /img/isaac-asimov.jpg
+  overlay_filter: 0.5
   teaser: /img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f-th.png
 redirect_from:
   - /2020/11/um-culto-da-ignorancia-por-isaac-asimov.html
+  - /cultura/um-culto-a-ignorancia/
+last_modified_at: 2021-05-20T00:00:00.000Z
+permalink: /um-culto-a-ignorancia-isaac-asimov/
+sidebar:
+  - title: Sobre
+    image: /img/Portifolio-350-250.png
+    image_alt: Lefebvre de Saboya
+    text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
+  - title: Responsabilidades
+    text: Tentando ajudar as pessoas a escrever melhor.
+  - title: Contato
+    text: hello@llsaboya.com
 ---
 
 {% include figure image_path="/img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original - A cult of ignorance" caption="A cult of ignorance, de Asimov." %}

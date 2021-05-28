@@ -10,7 +10,7 @@ toc: true
 toc_label: Índice
 toc_sticky: true
 sidebar:
-  - title: Cargos
+  - title: Sobre
     image: /img/Portifolio-350-250.png
     image_alt: Lefebvre de Saboya
     text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
@@ -18,7 +18,8 @@ sidebar:
     text: Tentando ajudar as pessoas a escrever melhor.
   - title: Contato
     text: hello@llsaboya.com
-    permalink: /writing-guite-jordan-peterson/
+
+permalink: /writing-guite-jordan-peterson/
 tags:
   - Jordan Peterson
 ---
