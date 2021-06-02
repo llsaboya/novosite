@@ -25,25 +25,25 @@ sidebar:
 
 {% include figure image_path="/img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original - A cult of ignorance" caption="A cult of ignorance, de Asimov." %}
 
-É difícil discutir com a antiquíssima justificativa para a imprensa livre: "*O Direito de Saber da América*". Parece quase cruel perguntar, sem malícia, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
+É difícil discutir com a antiquíssima justificativa para a liberdade de imprensa: "*O Direito de Saber da América*". Parece quase cruel perguntar, ingênuo, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
 
 Nenhuma dessas coisas, claro! Na verdade, qualquer um poderia supor muito bem que o sentimento geral é de que a América está bem melhor sem essas miudezas.
 
-Existe um culto da ignorância nos Estados Unidos, e ele sempre existiu. A corrente do anti-intelectualismo é uma constante ameaça serpenteando através da nossa vida política e cultural, alimentada pela falsa noção de que democracia significa "minha ignorância é tão boa quanto o seu conhecimento."
+Existe um culto da ignorância nos Estados Unidos, ele sempre existiu. A corrente do anti-intelectualismo é uma constante ameaça espreitando através da nossa vida política e cultural, alimentada pela falsa noção de que democracia significa "minha ignorância é tão boa quanto o seu conhecimento."
 
-Políticos se esforçam rotineiramente para falar a língua de Shakespeare e Milton o mais gramaticalmente errado quanto possível, para evitar ofender sua audiência ao parecerem ter ido para escola. Aliás, Adlai Stevenson, que imprudente permitiu a inteligência, o aprendizado e a sagacidade brotarem de seus discursos, se deparou com o povo americano se amontoando junto a um candidato à presidência que inventou uma versão própria da língua inglesa e tem sido o desespero dos satiristas desde então.
+Políticos se esforçam por via de regra em falar a língua de Shakespeare e Milton o mais gramaticalmente errado quanto possível, para evitar ofender sua audiência ao parecerem ter frequentado a escola. Aliás, Adlai Stevenson, que imprudente permitiu a inteligência, o aprendizado e a sagacidade brotarem nos seus discursos, se deparou com o povo americano se amontoando junto a um candidato à presidência que inventou uma versão própria da língua inglesa e tem sido o desespero dos satiristas desde então.
 
-George Wallace, em seus discursos, tem como um dos seus principais alvos o "professor esnobe", e com que fervor de aprovação ele é aplaudido por sua platéia esnobe.
+George Wallace, em seus discursos, tem como um dos seus principais alvos o "professor esnobe", e com que fervor de aprovação ele é aplaudido por sua esnobe platéia.
 
-**Palavra da moda**: Agora temos um novo slogan vindo dos obscurantistas: "não confiem nos especialistas!" Dez anos atrás era "não confiem em ninguém com mais de 30." Entretanto, quem gritava esse slogan descobriu que a inevitável alquimia do calendário os converteu em pessoas não-confiáveis acima de 30. Por isso, aparentemente, eles estão determinados a nunca mais cometer o mesmo erro. "Não confiem nos especialistas!" é mais seguro. Nada, nem a passagem do tempo, nem a exposição à informação poderá transformar esse pessoal em especialistas em nenhuma matéria que possa concebivelmente ser útil.
+**Palavra da moda**: Agora temos um novo slogan vindo dos obscurantistas: "não confiem nos especialistas!" Dez anos atrás era "não confiem em ninguém com mais de 30." Entretanto, quem gritava esse slogan descobriu que a inevitável alquimia do calendário os converteu em pessoas não-confiáveis acima dos 30. Por isso, ao que parece, eles estão determinados a nunca mais cometer o mesmo erro. "Não confiem nos especialistas!" é mais seguro. Nada, nem a passagem do tempo, nem a exposição à informação poderá transformar essa gente em especialistas em nenhuma matéria que possa concebivelmente ser útil.
 
-Nós também temos uma nova palavra da moda para qualquer um que goste de competência, conhecimento, aprendizado e habilidades, e que queira disseminá-las por aí. Pessoas assim são chamadas de "elitistas". Essa é o chavão mais engraçado jamais inventado, porque as pessoas que não fazem parte da elite intelectual não sabem o que "elitista" significa, ou como se pronuncia a palavra. Logo que alguém grita "elitista" torna-se claro que ele ou ela é um elitista enrustido que sente culpa de ter frequentado a escola.
+Nós também temos uma nova palavra da moda para qualquer um que goste de competência, conhecimento, aprendizado e habilidades, e que queira disseminá-las por aí. Pessoas assim são chamadas de "elitistas". Essa é o chavão mais engraçado jamais inventado, porque as pessoas que não fazem parte da elite intelectual não sabem o que "elitista" significa, ou como se pronuncia a palavra. Logo que alguém grita "elitista", torna-se claro que ele ou ela é um elitista enrustido que sente culpa de ter frequentado a escola.
 
 Tudo bem então. Esqueçam minha pergunta ingênua. "O Direito de Saber da América" não inclui conhecimento dos assuntos elitistas. O "O Direito de Saber da América" é algo que podemos expressar de forma vaga como "*o que está acontecendo por aí*". A América tem o direito de saber o que está acontecendo nas cortes, no Congresso, na Casa Branca, nos conselhos corporativos, nas agências reguladoras, nos sindicatos - o que está acontecendo com os poderosos, geralmente.
 
 Muito bom, sou a favor disso também. Mas como você vai fazer o povo saber isso tudo?
 
-Nos garanta uma imprensa livre e um monte de repórteres investigativos ferozes e independentes responderão ao chamado, aí nós teremos certeza de que o povo saberá.
+Garanta a liberdade de imprensa e um monte de repórteres investigativos ferozes e independentes responderão ao chamado, então nós teremos certeza de que o povo saberá.
 
 Sim, *desde que eles saibam ler*!
 
