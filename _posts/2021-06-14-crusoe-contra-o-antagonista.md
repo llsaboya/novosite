@@ -13,9 +13,9 @@ tags:
     - O Antagonista
     - Revista Crusoé
 header:
-    overlay_image: /img/crusoe-contra-o-antagonista.png
+    overlay_image: /img/crusoe-logo-social-black.png
     overlay_filter: 0.5
-    teaser: /img/crusoe-contra-o-antagonista-tb.png
+    teaser: /img/crusoe-logo-social-black-th.png
 toc: false
 toc_sticky: true
 slug: revista-crusoe-contra-site-antagonista
