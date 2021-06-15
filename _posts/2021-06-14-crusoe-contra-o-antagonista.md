@@ -11,6 +11,7 @@ tags:
     - Mario Sabino
     - O Antagonista
     - Revista Crusoé
+    - Alexandre Soares Silva
 header:
     overlay_image: /img/crusoe-logo-social-black.png
     overlay_filter: 0.5
