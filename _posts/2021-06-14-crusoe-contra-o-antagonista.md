@@ -6,7 +6,6 @@ categories:
     - Cultura
 tags:
     - Claudio Dantas
-    - Code
     - Cultura
     - Diogo Mainardi
     - Mario Sabino
