@@ -35,7 +35,7 @@ Minha idéia nunca vai pegar. O site "O Antagonista" entrou no ar, fez um pouco 
 
 ## O futuro da Crusoé e do O Antagonista
 
-Mas nem tudo são flores por lá. A publicidade e o marketing não sabe o que fazer com bons jornalistas, e não é diferente na Crusoé. Não sei o quanto eles gastam com *fórmulas de lançamento* e *copywriting melodramático*. Quem sabe é um **mau-hábito** herdado da Empiricus.
+Mas nem tudo são flores por lá. A publicidade e o marketing não sabe o que fazer com bons jornalistas, e não é diferente na Crusoé. Não sei o quanto eles gastam com *fórmulas de lançamento* e *copywriting melodramático*. Quem sabe é um **[mau-hábito](/negócios/breaking-bad-habits-freek-vermeulen/)** herdado da Empiricus.
 
 Diogo, Mario e Bruno são seres jurássicos (e isso é sim um elogio). E o bom jornalismo nunca saberá fazer boa propaganda. Assim como todos os jornais, tem aquela chamada a ação motivacional e emotiva:
 
