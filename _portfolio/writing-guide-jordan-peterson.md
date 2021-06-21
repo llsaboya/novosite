@@ -18,10 +18,12 @@ sidebar:
     text: Tentando ajudar as pessoas a escrever melhor.
   - title: Contato
     text: hello@llsaboya.com
-
 permalink: /writing-guite-jordan-peterson/
 tags:
+  - Ensaios
   - Jordan Peterson
+  - Writing Guide
+  - Como escrever
 ---
 
 # Como escrever um ensaio

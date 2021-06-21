@@ -2,9 +2,9 @@
 title: Modelo de Análise e Diagnóstico de Empresa
 excerpt: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
 header:
-  overlay_image: /img/lachlan-donald-YVT5aF2QM7M-unsplash.jpg
+  overlay_image: /img/made-portifolio.png
   overlay_filter: 0.5
-  teaser: /img/modelo-diagnóstico-empresa-made-th.png
+  teaser: /img/made-portifolio-th.png
 last_modified_at: 2021-03-01T00:00:00.000Z
 toc: true
 toc_label: Índice

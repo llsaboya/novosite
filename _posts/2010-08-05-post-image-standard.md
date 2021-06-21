@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: "Title"
 excerpt: Breves notas
 categories:
   - Notas
@@ -11,6 +11,7 @@ header:
   teaser: /img/1-joker-t.jpg
 toc: false
 toc_sticky: true
+draft: true
 ---
 
 bundle exec jekyll serve --livereload

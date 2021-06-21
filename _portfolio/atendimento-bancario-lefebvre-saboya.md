@@ -2,9 +2,9 @@
 title: Livro - Atendimento Bancário
 excerpt: Como atender e vender em qualquer Instituição Financeira.
 header:
-  overlay_image: /img/museums-victoria-bank-unsplash.jpg
+  overlay_image: /img/atendimento-portifolio.png
   overlay_filter: 0.5
-  teaser: /img/atendimento-bancario-lefebvre-saboya.jpg
+  teaser: /img/atendimento-portifolio-th.png
 last_modified_at: 2021-03-01T00:00:00.000Z
 toc: false
 toc_label: Índice

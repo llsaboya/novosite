@@ -3,9 +3,9 @@ title: "Currículo Profissional"
 permalink: /profissional/
 excerpt: "O curriculum vitae é uma síntese de aptidões e qualificações, na qual o candidato a alguma vaga de emprego descreve, dados pessoais para contato, formação acadêmica e experiência profissional."
 header:
-  overlay_image: /img/Banner-LinkedIn.png
+  overlay_image: /img/Curriculo-profissional.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  teaser: /img/Portifolio-350-250.png
+  teaser: /img/Curriculo-profissional-th.png
 last_modified_at: 2021-03-06
 toc: true
 toc_label: "Meu histórico profissional"
