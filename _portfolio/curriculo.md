@@ -1,7 +1,7 @@
 ---
 title: Currículo Profissional
 permalink: /curriculo-profissional/
-excerpt: 'O curriculum vitae é uma síntese de aptidões e qualificações, na qual o candidato a alguma vaga de emprego descreve, dados pessoais para contato, formação acadêmica e experiência profissional.'
+excerpt: 'O curriculum vitae é uma síntese de aptidões, qualificações, formação acadêmica e experiência profissional.'
 header:
   overlay_image: /img/Curriculo-profissional.png
   overlay_filter: 0.5
