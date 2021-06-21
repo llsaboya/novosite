@@ -1,25 +1,26 @@
 ---
-title: "Currículo Profissional"
-permalink: /profissional/
-excerpt: "O curriculum vitae é uma síntese de aptidões e qualificações, na qual o candidato a alguma vaga de emprego descreve, dados pessoais para contato, formação acadêmica e experiência profissional."
+title: Currículo Profissional
+permalink: /curriculo-profissional/
+excerpt: 'O curriculum vitae é uma síntese de aptidões e qualificações, na qual o candidato a alguma vaga de emprego descreve, dados pessoais para contato, formação acadêmica e experiência profissional.'
 header:
   overlay_image: /img/Curriculo-profissional.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.5
   teaser: /img/Curriculo-profissional-th.png
-last_modified_at: 2021-03-06
+last_modified_at: 2021-03-06T00:00:00.000Z
 toc: true
-toc_label: "Meu histórico profissional"
-toc_icon: "cog"
+toc_label: Meu histórico profissional
+toc_icon: cog
 toc_sticky: true
 sidebar:
-  - title: "Experiência"
+  - title: Experiência
     image: /img/Portifolio-350-250.png
-    image_alt: "Lefebvre de Saboya"
-    text: "Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer"
-  - title: "Responsabilidades"
-    text: "Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional."
-  - title: "Contato"
-    text: "hello@llsaboya.com"
+    image_alt: Lefebvre de Saboya
+    text: 'Empresário, Líder de Projetos, Analista, Redator Publicitário, Trainer'
+  - title: Responsabilidades
+    text: Meu trabalho é ajudar a avaliar as forças e oportunidades da sua organização para melhorar suas características mais importantes de excelência de desempenho organizacional.
+  - title: Contato
+    text: hello@llsaboya.com
+slug: curriculo-profissional
 ---
 
 # Experiência Profissional
