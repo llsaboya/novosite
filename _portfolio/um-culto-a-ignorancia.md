@@ -6,7 +6,7 @@ tags:
 header:
   overlay_image: /img/isaac-asimov.jpg
   overlay_filter: 0.5
-  teaser: /img/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f-th.png
+  teaser: /img/isaac-asimov-th.jpg
 redirect_from:
   - /2020/11/um-culto-da-ignorancia-por-isaac-asimov.html
   - /cultura/um-culto-a-ignorancia/
